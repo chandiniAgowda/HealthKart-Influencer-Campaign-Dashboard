@@ -1,0 +1,1324 @@
+post_id,influencer_id,platform,date,url,caption,reach,likes,comments
+1,1,Facebook,2025-02-03,http://facebook.com/posts/1,Check out Gritzo Peanut Butter! #ad,6136,165,10
+2,1,Facebook,2025-06-22,http://facebook.com/posts/2,Check out Gritzo Oats! #ad,7638,164,10
+3,1,Facebook,2025-03-15,http://facebook.com/posts/3,Check out Gritzo Chia Seeds! #ad,5186,155,22
+4,1,Facebook,2025-05-15,http://facebook.com/posts/4,Check out HKVitals Multivitamins! #ad,7024,238,42
+5,1,Facebook,2025-06-25,http://facebook.com/posts/5,Check out MuscleBlaze BCAA! #ad,6908,234,19
+6,1,Facebook,2025-06-26,http://facebook.com/posts/6,Check out HKVitals Multivitamins! #ad,5474,135,23
+7,2,Twitter,2025-07-05,http://twitter.com/status/7,Check out MuscleBlaze BCAA! #ad,29561,775,145
+8,2,Twitter,2025-02-13,http://twitter.com/status/8,Check out Gritzo Peanut Butter! #ad,36287,1847,331
+9,2,Twitter,2025-05-21,http://twitter.com/status/9,Check out MuscleBlaze BCAA! #ad,22473,1192,197
+10,2,Twitter,2025-02-14,http://twitter.com/status/10,Check out MuscleBlaze Protein Powder! #ad,28119,1199,209
+11,2,Twitter,2025-03-02,http://twitter.com/status/11,Check out HKVitals Omega 3! #ad,25018,834,158
+12,2,Twitter,2025-06-04,http://twitter.com/status/12,Check out MuscleBlaze BCAA! #ad,32752,1529,132
+13,2,Twitter,2025-04-29,http://twitter.com/status/13,Check out HKVitals Omega 3! #ad,39198,2038,272
+14,2,Twitter,2025-06-11,http://twitter.com/status/14,Check out HKVitals Multivitamins! #ad,25373,548,53
+15,2,Twitter,2025-03-22,http://twitter.com/status/15,Check out MuscleBlaze Protein Powder! #ad,37809,1828,288
+16,3,Twitter,2025-06-05,http://twitter.com/status/16,Check out HKVitals Omega 3! #ad,35835,1868,133
+17,3,Twitter,2025-02-25,http://twitter.com/status/17,Check out MuscleBlaze BCAA! #ad,30187,1000,137
+18,3,Twitter,2025-07-22,http://twitter.com/status/18,Check out Gritzo Peanut Butter! #ad,26704,1865,131
+19,3,Twitter,2025-05-05,http://twitter.com/status/19,Check out MuscleBlaze Protein Powder! #ad,35423,979,72
+20,3,Twitter,2025-06-10,http://twitter.com/status/20,Check out HKVitals Probiotics! #ad,21490,839,167
+21,3,Twitter,2025-05-12,http://twitter.com/status/21,Check out HKVitals Probiotics! #ad,35417,728,115
+22,3,Twitter,2025-06-10,http://twitter.com/status/22,Check out Gritzo Peanut Butter! #ad,33807,1251,117
+23,3,Twitter,2025-03-01,http://twitter.com/status/23,Check out HKVitals Multivitamins! #ad,37042,2363,211
+24,4,YouTube,2025-05-08,http://youtube.com/watch?v=24,Check out MuscleBlaze BCAA! #ad,53189,2763,390
+25,4,YouTube,2025-02-28,http://youtube.com/watch?v=25,Check out HKVitals Multivitamins! #ad,61936,3649,472
+26,4,YouTube,2025-01-29,http://youtube.com/watch?v=26,Check out Gritzo Peanut Butter! #ad,60093,1537,160
+27,4,YouTube,2025-07-10,http://youtube.com/watch?v=27,Check out HKVitals Multivitamins! #ad,44457,2840,545
+28,4,YouTube,2025-02-15,http://youtube.com/watch?v=28,Check out Gritzo Peanut Butter! #ad,71979,4959,644
+29,4,YouTube,2025-02-23,http://youtube.com/watch?v=29,Check out MuscleBlaze BCAA! #ad,59609,2830,254
+30,4,YouTube,2025-07-18,http://youtube.com/watch?v=30,Check out Gritzo Peanut Butter! #ad,77365,5140,839
+31,5,YouTube,2025-06-17,http://youtube.com/watch?v=31,Check out HKVitals Omega 3! #ad,36069,1893,219
+32,5,YouTube,2025-05-10,http://youtube.com/watch?v=32,Check out HKVitals Multivitamins! #ad,23601,547,29
+33,5,YouTube,2025-05-17,http://youtube.com/watch?v=33,Check out MuscleBlaze BCAA! #ad,23139,544,78
+34,5,YouTube,2025-03-15,http://youtube.com/watch?v=34,Check out MuscleBlaze Protein Powder! #ad,33808,795,68
+35,5,YouTube,2025-06-08,http://youtube.com/watch?v=35,Check out HKVitals Multivitamins! #ad,28462,1598,291
+36,5,YouTube,2025-05-21,http://youtube.com/watch?v=36,Check out HKVitals Multivitamins! #ad,32556,1965,154
+37,5,YouTube,2025-02-17,http://youtube.com/watch?v=37,Check out Gritzo Peanut Butter! #ad,25376,1029,184
+38,5,YouTube,2025-02-09,http://youtube.com/watch?v=38,Check out Gritzo Chia Seeds! #ad,35886,894,98
+39,6,Facebook,2025-07-04,http://facebook.com/posts/39,Check out MuscleBlaze Protein Powder! #ad,20198,945,67
+40,6,Facebook,2025-03-06,http://facebook.com/posts/40,Check out HKVitals Omega 3! #ad,21064,1393,162
+41,6,Facebook,2025-07-15,http://facebook.com/posts/41,Check out Gritzo Oats! #ad,18101,1266,222
+42,6,Facebook,2025-02-16,http://facebook.com/posts/42,Check out MuscleBlaze Protein Powder! #ad,23393,1030,185
+43,6,Facebook,2025-07-23,http://facebook.com/posts/43,Check out MuscleBlaze Protein Powder! #ad,22985,1592,142
+44,6,Facebook,2025-06-30,http://facebook.com/posts/44,Check out HKVitals Omega 3! #ad,23640,1604,319
+45,6,Facebook,2025-05-17,http://facebook.com/posts/45,Check out Gritzo Chia Seeds! #ad,24586,725,59
+46,6,Facebook,2025-02-09,http://facebook.com/posts/46,Check out Gritzo Chia Seeds! #ad,25412,1458,85
+47,6,Facebook,2025-05-23,http://facebook.com/posts/47,Check out HKVitals Probiotics! #ad,31021,1444,84
+48,6,Facebook,2025-05-08,http://facebook.com/posts/48,Check out MuscleBlaze Protein Powder! #ad,18368,429,76
+49,7,Instagram,2025-02-21,http://instagram.com/post/49,Check out Gritzo Oats! #ad,99571,2189,136
+50,7,Instagram,2025-06-06,http://instagram.com/post/50,Check out Gritzo Chia Seeds! #ad,96369,6431,518
+51,7,Instagram,2025-06-17,http://instagram.com/post/51,Check out HKVitals Multivitamins! #ad,81700,2168,318
+52,7,Instagram,2025-04-28,http://instagram.com/post/52,Check out HKVitals Multivitamins! #ad,67080,3424,460
+53,7,Instagram,2025-02-18,http://instagram.com/post/53,Check out MuscleBlaze BCAA! #ad,78707,2617,497
+54,7,Instagram,2025-07-19,http://instagram.com/post/54,Check out MuscleBlaze Protein Powder! #ad,87627,2443,427
+55,7,Instagram,2025-06-15,http://instagram.com/post/55,Check out HKVitals Probiotics! #ad,122669,7403,957
+56,7,Instagram,2025-06-08,http://instagram.com/post/56,Check out Gritzo Peanut Butter! #ad,119698,3013,547
+57,7,Instagram,2025-03-21,http://instagram.com/post/57,Check out MuscleBlaze Protein Powder! #ad,108897,3024,279
+58,7,Instagram,2025-03-11,http://instagram.com/post/58,Check out Gritzo Peanut Butter! #ad,78162,4041,362
+59,7,Instagram,2025-05-04,http://instagram.com/post/59,Check out HKVitals Multivitamins! #ad,71813,2957,270
+60,8,Facebook,2025-04-04,http://facebook.com/posts/60,Check out MuscleBlaze BCAA! #ad,132151,3710,431
+61,8,Facebook,2025-06-15,http://facebook.com/posts/61,Check out HKVitals Probiotics! #ad,72423,1720,313
+62,8,Facebook,2025-07-24,http://facebook.com/posts/62,Check out MuscleBlaze BCAA! #ad,74046,2847,378
+63,8,Facebook,2025-04-23,http://facebook.com/posts/63,Check out MuscleBlaze Protein Powder! #ad,90807,5897,999
+64,8,Facebook,2025-07-15,http://facebook.com/posts/64,Check out MuscleBlaze Mass Gainer! #ad,84762,2752,180
+65,9,Instagram,2025-05-30,http://instagram.com/post/65,Check out Gritzo Oats! #ad,2411,76,5
+66,9,Instagram,2025-07-03,http://instagram.com/post/66,Check out MuscleBlaze Mass Gainer! #ad,1373,78,7
+67,9,Instagram,2025-04-19,http://instagram.com/post/67,Check out Gritzo Chia Seeds! #ad,2279,75,12
+68,9,Instagram,2025-02-19,http://instagram.com/post/68,Check out HKVitals Multivitamins! #ad,2334,72,12
+69,9,Instagram,2025-04-28,http://instagram.com/post/69,Check out HKVitals Omega 3! #ad,2290,145,12
+70,9,Instagram,2025-06-06,http://instagram.com/post/70,Check out MuscleBlaze Mass Gainer! #ad,1723,108,21
+71,9,Instagram,2025-03-24,http://instagram.com/post/71,Check out HKVitals Probiotics! #ad,1931,104,18
+72,9,Instagram,2025-04-03,http://instagram.com/post/72,Check out MuscleBlaze Protein Powder! #ad,2355,77,10
+73,9,Instagram,2025-03-22,http://instagram.com/post/73,Check out MuscleBlaze Protein Powder! #ad,2032,75,12
+74,9,Instagram,2025-04-24,http://instagram.com/post/74,Check out Gritzo Chia Seeds! #ad,1477,95,7
+75,9,Instagram,2025-02-07,http://instagram.com/post/75,Check out Gritzo Peanut Butter! #ad,1346,89,11
+76,10,Facebook,2025-04-10,http://facebook.com/posts/76,Check out HKVitals Multivitamins! #ad,51119,3375,484
+77,10,Facebook,2025-06-07,http://facebook.com/posts/77,Check out MuscleBlaze BCAA! #ad,49939,2265,339
+78,10,Facebook,2025-04-02,http://facebook.com/posts/78,Check out HKVitals Probiotics! #ad,35335,931,105
+79,10,Facebook,2025-04-13,http://facebook.com/posts/79,Check out Gritzo Chia Seeds! #ad,50006,2539,241
+80,10,Facebook,2025-05-16,http://facebook.com/posts/80,Check out MuscleBlaze Mass Gainer! #ad,35124,1457,199
+81,10,Facebook,2025-06-05,http://facebook.com/posts/81,Check out HKVitals Omega 3! #ad,38866,2090,264
+82,10,Facebook,2025-07-02,http://facebook.com/posts/82,Check out Gritzo Oats! #ad,44111,1508,225
+83,10,Facebook,2025-05-29,http://facebook.com/posts/83,Check out HKVitals Multivitamins! #ad,47967,2760,416
+84,11,YouTube,2025-07-05,http://youtube.com/watch?v=84,Check out MuscleBlaze Protein Powder! #ad,19655,633,76
+85,11,YouTube,2025-07-13,http://youtube.com/watch?v=85,Check out MuscleBlaze Mass Gainer! #ad,26091,1343,106
+86,11,YouTube,2025-06-13,http://youtube.com/watch?v=86,Check out HKVitals Omega 3! #ad,25847,707,108
+87,11,YouTube,2025-07-21,http://youtube.com/watch?v=87,Check out MuscleBlaze Mass Gainer! #ad,22863,1376,212
+88,11,YouTube,2025-04-29,http://youtube.com/watch?v=88,Check out MuscleBlaze BCAA! #ad,23364,1458,172
+89,11,YouTube,2025-07-04,http://youtube.com/watch?v=89,Check out HKVitals Probiotics! #ad,28016,1343,131
+90,11,YouTube,2025-06-25,http://youtube.com/watch?v=90,Check out HKVitals Probiotics! #ad,32701,2112,240
+91,11,YouTube,2025-07-24,http://youtube.com/watch?v=91,Check out Gritzo Peanut Butter! #ad,34057,1947,235
+92,12,Twitter,2025-06-24,http://twitter.com/status/92,Check out MuscleBlaze BCAA! #ad,8853,521,63
+93,12,Twitter,2025-03-17,http://twitter.com/status/93,Check out HKVitals Omega 3! #ad,7628,261,23
+94,12,Twitter,2025-04-01,http://twitter.com/status/94,Check out Gritzo Oats! #ad,8001,252,38
+95,12,Twitter,2025-06-15,http://twitter.com/status/95,Check out MuscleBlaze Protein Powder! #ad,9697,354,42
+96,12,Twitter,2025-02-10,http://twitter.com/status/96,Check out MuscleBlaze Mass Gainer! #ad,9541,558,107
+97,12,Twitter,2025-02-02,http://twitter.com/status/97,Check out Gritzo Peanut Butter! #ad,10077,676,64
+98,12,Twitter,2025-04-15,http://twitter.com/status/98,Check out HKVitals Probiotics! #ad,11736,555,77
+99,12,Twitter,2025-03-13,http://twitter.com/status/99,Check out HKVitals Multivitamins! #ad,8826,390,42
+100,12,Twitter,2025-06-08,http://twitter.com/status/100,Check out Gritzo Peanut Butter! #ad,11593,719,135
+101,13,Facebook,2025-07-24,http://facebook.com/posts/101,Check out HKVitals Probiotics! #ad,71127,1518,222
+102,13,Facebook,2025-02-24,http://facebook.com/posts/102,Check out HKVitals Multivitamins! #ad,50003,1947,159
+103,13,Facebook,2025-04-03,http://facebook.com/posts/103,Check out HKVitals Omega 3! #ad,59370,4011,454
+104,13,Facebook,2025-07-10,http://facebook.com/posts/104,Check out MuscleBlaze Mass Gainer! #ad,48733,2289,457
+105,13,Facebook,2025-04-07,http://facebook.com/posts/105,Check out MuscleBlaze BCAA! #ad,50756,3444,192
+106,14,Instagram,2025-03-18,http://instagram.com/post/106,Check out MuscleBlaze Protein Powder! #ad,21280,679,82
+107,14,Instagram,2025-02-20,http://instagram.com/post/107,Check out Gritzo Oats! #ad,19419,637,67
+108,14,Instagram,2025-05-27,http://instagram.com/post/108,Check out Gritzo Chia Seeds! #ad,22434,1321,98
+109,14,Instagram,2025-03-31,http://instagram.com/post/109,Check out MuscleBlaze BCAA! #ad,14190,505,76
+110,14,Instagram,2025-04-12,http://instagram.com/post/110,Check out HKVitals Probiotics! #ad,16245,805,140
+111,15,Twitter,2025-02-18,http://twitter.com/status/111,Check out Gritzo Peanut Butter! #ad,3511,175,11
+112,15,Twitter,2025-05-19,http://twitter.com/status/112,Check out MuscleBlaze Mass Gainer! #ad,2959,157,9
+113,15,Twitter,2025-06-04,http://twitter.com/status/113,Check out HKVitals Multivitamins! #ad,3510,214,14
+114,15,Twitter,2025-04-09,http://twitter.com/status/114,Check out Gritzo Peanut Butter! #ad,3262,136,21
+115,15,Twitter,2025-06-04,http://twitter.com/status/115,Check out HKVitals Probiotics! #ad,3438,161,19
+116,15,Twitter,2025-04-24,http://twitter.com/status/116,Check out Gritzo Chia Seeds! #ad,2498,156,27
+117,15,Twitter,2025-02-15,http://twitter.com/status/117,Check out HKVitals Omega 3! #ad,2456,106,15
+118,15,Twitter,2025-04-13,http://twitter.com/status/118,Check out HKVitals Multivitamins! #ad,2892,104,12
+119,16,Instagram,2025-07-03,http://instagram.com/post/119,Check out HKVitals Omega 3! #ad,58549,2916,530
+120,16,Instagram,2025-05-17,http://instagram.com/post/120,Check out MuscleBlaze BCAA! #ad,85607,2078,328
+121,16,Instagram,2025-05-04,http://instagram.com/post/121,Check out Gritzo Oats! #ad,75185,3931,485
+122,16,Instagram,2025-07-02,http://instagram.com/post/122,Check out MuscleBlaze Protein Powder! #ad,59139,2378,205
+123,16,Instagram,2025-06-07,http://instagram.com/post/123,Check out Gritzo Peanut Butter! #ad,66386,3090,351
+124,16,Instagram,2025-06-23,http://instagram.com/post/124,Check out Gritzo Peanut Butter! #ad,61470,2623,251
+125,16,Instagram,2025-03-15,http://instagram.com/post/125,Check out MuscleBlaze BCAA! #ad,55024,1429,186
+126,16,Instagram,2025-06-26,http://instagram.com/post/126,Check out Gritzo Oats! #ad,54982,3130,286
+127,16,Instagram,2025-05-24,http://instagram.com/post/127,Check out Gritzo Chia Seeds! #ad,58684,1468,116
+128,16,Instagram,2025-03-14,http://instagram.com/post/128,Check out HKVitals Multivitamins! #ad,59464,3294,227
+129,17,Facebook,2025-02-09,http://facebook.com/posts/129,Check out Gritzo Peanut Butter! #ad,53697,1412,254
+130,17,Facebook,2025-05-04,http://facebook.com/posts/130,Check out MuscleBlaze Protein Powder! #ad,50144,2179,252
+131,17,Facebook,2025-03-06,http://facebook.com/posts/131,Check out MuscleBlaze Mass Gainer! #ad,60716,2664,461
+132,17,Facebook,2025-04-17,http://facebook.com/posts/132,Check out HKVitals Multivitamins! #ad,50229,2728,198
+133,17,Facebook,2025-07-06,http://facebook.com/posts/133,Check out Gritzo Peanut Butter! #ad,36061,1168,156
+134,18,Instagram,2025-05-27,http://instagram.com/post/134,Check out Gritzo Chia Seeds! #ad,6117,282,33
+135,18,Instagram,2025-04-25,http://instagram.com/post/135,Check out HKVitals Probiotics! #ad,9476,334,47
+136,18,Instagram,2025-05-27,http://instagram.com/post/136,Check out Gritzo Oats! #ad,9289,282,23
+137,18,Instagram,2025-06-06,http://instagram.com/post/137,Check out MuscleBlaze Protein Powder! #ad,6180,294,21
+138,18,Instagram,2025-04-18,http://instagram.com/post/138,Check out HKVitals Probiotics! #ad,7735,267,22
+139,18,Instagram,2025-06-15,http://instagram.com/post/139,Check out HKVitals Probiotics! #ad,8903,209,17
+140,18,Instagram,2025-03-21,http://instagram.com/post/140,Check out Gritzo Chia Seeds! #ad,8031,535,60
+141,18,Instagram,2025-05-15,http://instagram.com/post/141,Check out MuscleBlaze BCAA! #ad,5780,192,13
+142,18,Instagram,2025-02-10,http://instagram.com/post/142,Check out MuscleBlaze Mass Gainer! #ad,7740,473,89
+143,18,Instagram,2025-04-24,http://instagram.com/post/143,Check out MuscleBlaze Mass Gainer! #ad,8152,448,85
+144,18,Instagram,2025-05-06,http://instagram.com/post/144,Check out Gritzo Peanut Butter! #ad,7049,351,64
+145,19,Twitter,2025-05-26,http://twitter.com/status/145,Check out HKVitals Multivitamins! #ad,13216,899,157
+146,19,Twitter,2025-05-21,http://twitter.com/status/146,Check out Gritzo Oats! #ad,22758,1220,110
+147,19,Twitter,2025-02-06,http://twitter.com/status/147,Check out MuscleBlaze Mass Gainer! #ad,17709,745,68
+148,19,Twitter,2025-05-23,http://twitter.com/status/148,Check out HKVitals Probiotics! #ad,20811,1424,171
+149,19,Twitter,2025-04-18,http://twitter.com/status/149,Check out HKVitals Omega 3! #ad,19297,1213,120
+150,19,Twitter,2025-06-13,http://twitter.com/status/150,Check out HKVitals Omega 3! #ad,19218,769,126
+151,19,Twitter,2025-02-05,http://twitter.com/status/151,Check out HKVitals Multivitamins! #ad,15561,562,109
+152,19,Twitter,2025-04-18,http://twitter.com/status/152,Check out Gritzo Oats! #ad,19166,903,101
+153,19,Twitter,2025-03-07,http://twitter.com/status/153,Check out Gritzo Peanut Butter! #ad,18798,844,98
+154,19,Twitter,2025-02-08,http://twitter.com/status/154,Check out MuscleBlaze Mass Gainer! #ad,18027,1196,138
+155,20,YouTube,2025-02-22,http://youtube.com/watch?v=155,Check out MuscleBlaze BCAA! #ad,34634,1107,81
+156,20,YouTube,2025-05-16,http://youtube.com/watch?v=156,Check out MuscleBlaze BCAA! #ad,30716,959,168
+157,20,YouTube,2025-02-20,http://youtube.com/watch?v=157,Check out HKVitals Multivitamins! #ad,35392,980,186
+158,20,YouTube,2025-03-27,http://youtube.com/watch?v=158,Check out Gritzo Chia Seeds! #ad,28091,1734,341
+159,20,YouTube,2025-03-17,http://youtube.com/watch?v=159,Check out HKVitals Probiotics! #ad,25579,755,105
+160,20,YouTube,2025-06-23,http://youtube.com/watch?v=160,Check out MuscleBlaze Protein Powder! #ad,28146,1674,187
+161,20,YouTube,2025-07-01,http://youtube.com/watch?v=161,Check out Gritzo Peanut Butter! #ad,38763,1323,125
+162,20,YouTube,2025-05-23,http://youtube.com/watch?v=162,Check out Gritzo Chia Seeds! #ad,32308,886,115
+163,20,YouTube,2025-04-06,http://youtube.com/watch?v=163,Check out HKVitals Probiotics! #ad,37638,1462,277
+164,20,YouTube,2025-07-17,http://youtube.com/watch?v=164,Check out MuscleBlaze BCAA! #ad,27415,1073,191
+165,20,YouTube,2025-04-19,http://youtube.com/watch?v=165,Check out MuscleBlaze Mass Gainer! #ad,37284,2060,353
+166,20,YouTube,2025-04-14,http://youtube.com/watch?v=166,Check out Gritzo Chia Seeds! #ad,41890,1875,104
+167,21,YouTube,2025-07-17,http://youtube.com/watch?v=167,Check out MuscleBlaze Mass Gainer! #ad,23116,1514,79
+168,21,YouTube,2025-02-26,http://youtube.com/watch?v=168,Check out HKVitals Probiotics! #ad,39002,925,154
+169,21,YouTube,2025-03-22,http://youtube.com/watch?v=169,Check out HKVitals Probiotics! #ad,33941,1781,316
+170,21,YouTube,2025-07-14,http://youtube.com/watch?v=170,Check out Gritzo Chia Seeds! #ad,28233,1011,159
+171,21,YouTube,2025-06-26,http://youtube.com/watch?v=171,Check out HKVitals Probiotics! #ad,21952,514,74
+172,21,YouTube,2025-07-27,http://youtube.com/watch?v=172,Check out HKVitals Multivitamins! #ad,34928,1456,94
+173,21,YouTube,2025-06-01,http://youtube.com/watch?v=173,Check out Gritzo Oats! #ad,29395,1607,298
+174,21,YouTube,2025-02-07,http://youtube.com/watch?v=174,Check out HKVitals Multivitamins! #ad,26652,1032,74
+175,21,YouTube,2025-05-12,http://youtube.com/watch?v=175,Check out HKVitals Probiotics! #ad,33742,978,74
+176,21,YouTube,2025-05-27,http://youtube.com/watch?v=176,Check out HKVitals Probiotics! #ad,33767,1515,208
+177,22,Twitter,2025-04-29,http://twitter.com/status/177,Check out Gritzo Peanut Butter! #ad,5334,284,52
+178,22,Twitter,2025-04-29,http://twitter.com/status/178,Check out HKVitals Probiotics! #ad,5619,133,25
+179,22,Twitter,2025-05-23,http://twitter.com/status/179,Check out HKVitals Probiotics! #ad,6982,380,45
+180,22,Twitter,2025-03-29,http://twitter.com/status/180,Check out MuscleBlaze Mass Gainer! #ad,6626,167,17
+181,22,Twitter,2025-04-09,http://twitter.com/status/181,Check out Gritzo Peanut Butter! #ad,7083,246,48
+182,22,Twitter,2025-06-06,http://twitter.com/status/182,Check out HKVitals Omega 3! #ad,3853,243,40
+183,22,Twitter,2025-02-08,http://twitter.com/status/183,Check out Gritzo Chia Seeds! #ad,5456,355,32
+184,22,Twitter,2025-07-03,http://twitter.com/status/184,Check out MuscleBlaze BCAA! #ad,6457,199,15
+185,23,YouTube,2025-06-10,http://youtube.com/watch?v=185,Check out Gritzo Chia Seeds! #ad,2764,74,4
+186,23,YouTube,2025-05-31,http://youtube.com/watch?v=186,Check out Gritzo Oats! #ad,2208,92,12
+187,23,YouTube,2025-06-20,http://youtube.com/watch?v=187,Check out MuscleBlaze Protein Powder! #ad,3106,112,12
+188,23,YouTube,2025-03-09,http://youtube.com/watch?v=188,Check out MuscleBlaze BCAA! #ad,3057,117,14
+189,23,YouTube,2025-03-23,http://youtube.com/watch?v=189,Check out MuscleBlaze Mass Gainer! #ad,3113,209,40
+190,23,YouTube,2025-03-27,http://youtube.com/watch?v=190,Check out Gritzo Peanut Butter! #ad,2949,128,7
+191,23,YouTube,2025-06-25,http://youtube.com/watch?v=191,Check out MuscleBlaze BCAA! #ad,2829,195,38
+192,23,YouTube,2025-07-04,http://youtube.com/watch?v=192,Check out Gritzo Peanut Butter! #ad,1880,74,6
+193,23,YouTube,2025-02-22,http://youtube.com/watch?v=193,Check out HKVitals Omega 3! #ad,2752,147,20
+194,24,YouTube,2025-02-19,http://youtube.com/watch?v=194,Check out Gritzo Oats! #ad,7622,388,74
+195,24,YouTube,2025-04-03,http://youtube.com/watch?v=195,Check out Gritzo Oats! #ad,8442,437,52
+196,24,YouTube,2025-06-14,http://youtube.com/watch?v=196,Check out HKVitals Probiotics! #ad,7328,197,37
+197,24,YouTube,2025-03-29,http://youtube.com/watch?v=197,Check out HKVitals Multivitamins! #ad,5880,378,26
+198,24,YouTube,2025-04-27,http://youtube.com/watch?v=198,Check out HKVitals Probiotics! #ad,9845,539,70
+199,24,YouTube,2025-05-23,http://youtube.com/watch?v=199,Check out Gritzo Chia Seeds! #ad,6147,250,16
+200,24,YouTube,2025-05-04,http://youtube.com/watch?v=200,Check out Gritzo Peanut Butter! #ad,9797,332,50
+201,24,YouTube,2025-03-12,http://youtube.com/watch?v=201,Check out HKVitals Omega 3! #ad,9851,618,40
+202,24,YouTube,2025-06-11,http://youtube.com/watch?v=202,Check out HKVitals Probiotics! #ad,9624,502,29
+203,24,YouTube,2025-03-24,http://youtube.com/watch?v=203,Check out MuscleBlaze Protein Powder! #ad,9844,602,38
+204,25,Facebook,2025-06-03,http://facebook.com/posts/204,Check out Gritzo Chia Seeds! #ad,59562,1341,134
+205,25,Facebook,2025-02-23,http://facebook.com/posts/205,Check out Gritzo Oats! #ad,34417,2005,162
+206,25,Facebook,2025-03-12,http://facebook.com/posts/206,Check out MuscleBlaze Mass Gainer! #ad,54081,3214,448
+207,25,Facebook,2025-03-24,http://facebook.com/posts/207,Check out MuscleBlaze Protein Powder! #ad,47557,2849,189
+208,25,Facebook,2025-07-16,http://facebook.com/posts/208,Check out MuscleBlaze Protein Powder! #ad,32919,1958,167
+209,25,Facebook,2025-04-02,http://facebook.com/posts/209,Check out MuscleBlaze Protein Powder! #ad,39899,1050,118
+210,25,Facebook,2025-02-20,http://facebook.com/posts/210,Check out Gritzo Oats! #ad,45775,2696,342
+211,25,Facebook,2025-02-19,http://facebook.com/posts/211,Check out HKVitals Probiotics! #ad,38678,1963,312
+212,26,Instagram,2025-04-28,http://instagram.com/post/212,Check out Gritzo Oats! #ad,2585,113,12
+213,26,Instagram,2025-06-11,http://instagram.com/post/213,Check out MuscleBlaze Mass Gainer! #ad,3957,166,30
+214,26,Instagram,2025-04-02,http://instagram.com/post/214,Check out Gritzo Oats! #ad,2595,87,12
+215,26,Instagram,2025-05-16,http://instagram.com/post/215,Check out Gritzo Peanut Butter! #ad,3259,162,15
+216,26,Instagram,2025-05-07,http://instagram.com/post/216,Check out Gritzo Peanut Butter! #ad,2665,146,25
+217,26,Instagram,2025-06-05,http://instagram.com/post/217,Check out Gritzo Chia Seeds! #ad,4279,177,32
+218,26,Instagram,2025-04-19,http://instagram.com/post/218,Check out HKVitals Omega 3! #ad,3296,186,18
+219,26,Instagram,2025-03-31,http://instagram.com/post/219,Check out Gritzo Peanut Butter! #ad,3245,89,16
+220,26,Instagram,2025-02-11,http://instagram.com/post/220,Check out MuscleBlaze Protein Powder! #ad,2653,65,10
+221,27,Facebook,2025-05-17,http://facebook.com/posts/221,Check out MuscleBlaze BCAA! #ad,45040,2165,325
+222,27,Facebook,2025-04-19,http://facebook.com/posts/222,Check out HKVitals Probiotics! #ad,44711,1839,344
+223,27,Facebook,2025-02-08,http://facebook.com/posts/223,Check out HKVitals Probiotics! #ad,31375,790,99
+224,27,Facebook,2025-02-28,http://facebook.com/posts/224,Check out Gritzo Peanut Butter! #ad,29504,749,132
+225,27,Facebook,2025-04-10,http://facebook.com/posts/225,Check out MuscleBlaze Mass Gainer! #ad,36925,2228,393
+226,27,Facebook,2025-06-27,http://facebook.com/posts/226,Check out Gritzo Chia Seeds! #ad,39065,1868,264
+227,27,Facebook,2025-06-06,http://facebook.com/posts/227,Check out Gritzo Peanut Butter! #ad,25361,853,140
+228,28,Instagram,2025-04-07,http://instagram.com/post/228,Check out MuscleBlaze Protein Powder! #ad,52031,2513,276
+229,28,Instagram,2025-02-26,http://instagram.com/post/229,Check out Gritzo Chia Seeds! #ad,54636,1343,174
+230,28,Instagram,2025-04-12,http://instagram.com/post/230,Check out HKVitals Omega 3! #ad,38517,1483,234
+231,28,Instagram,2025-06-29,http://instagram.com/post/231,Check out Gritzo Chia Seeds! #ad,31977,723,53
+232,28,Instagram,2025-05-29,http://instagram.com/post/232,Check out MuscleBlaze BCAA! #ad,31891,1344,152
+233,28,Instagram,2025-05-27,http://instagram.com/post/233,Check out HKVitals Omega 3! #ad,36786,2124,142
+234,28,Instagram,2025-04-23,http://instagram.com/post/234,Check out MuscleBlaze Mass Gainer! #ad,47135,2340,301
+235,28,Instagram,2025-03-30,http://instagram.com/post/235,Check out MuscleBlaze Protein Powder! #ad,39906,1993,101
+236,28,Instagram,2025-03-29,http://instagram.com/post/236,Check out MuscleBlaze Protein Powder! #ad,49331,1700,115
+237,28,Instagram,2025-05-06,http://instagram.com/post/237,Check out Gritzo Peanut Butter! #ad,34296,1337,207
+238,29,Instagram,2025-02-12,http://instagram.com/post/238,Check out HKVitals Probiotics! #ad,22528,471,88
+239,29,Instagram,2025-07-16,http://instagram.com/post/239,Check out HKVitals Probiotics! #ad,29740,1196,174
+240,29,Instagram,2025-03-26,http://instagram.com/post/240,Check out MuscleBlaze Mass Gainer! #ad,22129,801,136
+241,29,Instagram,2025-05-29,http://instagram.com/post/241,Check out HKVitals Probiotics! #ad,38880,948,167
+242,29,Instagram,2025-03-17,http://instagram.com/post/242,Check out HKVitals Probiotics! #ad,29202,698,126
+243,29,Instagram,2025-06-23,http://instagram.com/post/243,Check out HKVitals Multivitamins! #ad,27947,793,100
+244,29,Instagram,2025-02-20,http://instagram.com/post/244,Check out Gritzo Chia Seeds! #ad,25353,1491,153
+245,29,Instagram,2025-07-07,http://instagram.com/post/245,Check out Gritzo Oats! #ad,26143,714,56
+246,29,Instagram,2025-05-26,http://instagram.com/post/246,Check out MuscleBlaze BCAA! #ad,23144,1563,225
+247,29,Instagram,2025-04-29,http://instagram.com/post/247,Check out Gritzo Chia Seeds! #ad,30105,1993,268
+248,30,Instagram,2025-07-16,http://instagram.com/post/248,Check out Gritzo Peanut Butter! #ad,2986,69,8
+249,30,Instagram,2025-03-29,http://instagram.com/post/249,Check out HKVitals Probiotics! #ad,2771,125,12
+250,30,Instagram,2025-04-27,http://instagram.com/post/250,Check out MuscleBlaze Protein Powder! #ad,3480,119,17
+251,30,Instagram,2025-07-14,http://instagram.com/post/251,Check out MuscleBlaze BCAA! #ad,3991,156,21
+252,30,Instagram,2025-07-02,http://instagram.com/post/252,Check out Gritzo Oats! #ad,3664,221,32
+253,30,Instagram,2025-04-02,http://instagram.com/post/253,Check out Gritzo Peanut Butter! #ad,3781,256,30
+254,30,Instagram,2025-07-06,http://instagram.com/post/254,Check out HKVitals Probiotics! #ad,2835,148,8
+255,30,Instagram,2025-06-16,http://instagram.com/post/255,Check out HKVitals Omega 3! #ad,3832,193,20
+256,30,Instagram,2025-07-26,http://instagram.com/post/256,Check out HKVitals Omega 3! #ad,3571,131,18
+257,30,Instagram,2025-07-01,http://instagram.com/post/257,Check out Gritzo Chia Seeds! #ad,3403,124,16
+258,31,Instagram,2025-03-25,http://instagram.com/post/258,Check out HKVitals Probiotics! #ad,13554,924,129
+259,31,Instagram,2025-02-27,http://instagram.com/post/259,Check out HKVitals Multivitamins! #ad,11748,318,32
+260,31,Instagram,2025-06-06,http://instagram.com/post/260,Check out Gritzo Chia Seeds! #ad,10467,520,99
+261,31,Instagram,2025-03-30,http://instagram.com/post/261,Check out Gritzo Peanut Butter! #ad,12156,442,30
+262,31,Instagram,2025-06-15,http://instagram.com/post/262,Check out Gritzo Chia Seeds! #ad,13962,344,51
+263,31,Instagram,2025-05-08,http://instagram.com/post/263,Check out HKVitals Multivitamins! #ad,10270,297,24
+264,31,Instagram,2025-06-27,http://instagram.com/post/264,Check out HKVitals Multivitamins! #ad,9356,251,15
+265,31,Instagram,2025-07-12,http://instagram.com/post/265,Check out MuscleBlaze BCAA! #ad,13012,803,146
+266,31,Instagram,2025-02-05,http://instagram.com/post/266,Check out Gritzo Peanut Butter! #ad,13720,698,97
+267,31,Instagram,2025-02-28,http://instagram.com/post/267,Check out MuscleBlaze Protein Powder! #ad,13418,785,134
+268,31,Instagram,2025-03-02,http://instagram.com/post/268,Check out Gritzo Peanut Butter! #ad,8128,310,48
+269,32,Twitter,2025-05-28,http://twitter.com/status/269,Check out HKVitals Probiotics! #ad,47520,1506,129
+270,32,Twitter,2025-07-05,http://twitter.com/status/270,Check out HKVitals Multivitamins! #ad,37386,2518,497
+271,32,Twitter,2025-04-29,http://twitter.com/status/271,Check out HKVitals Omega 3! #ad,40676,1664,123
+272,32,Twitter,2025-03-09,http://twitter.com/status/272,Check out Gritzo Oats! #ad,49693,1123,137
+273,32,Twitter,2025-04-11,http://twitter.com/status/273,Check out Gritzo Oats! #ad,45756,2095,143
+274,32,Twitter,2025-02-14,http://twitter.com/status/274,Check out MuscleBlaze Mass Gainer! #ad,39371,1797,313
+275,32,Twitter,2025-02-16,http://twitter.com/status/275,Check out MuscleBlaze Mass Gainer! #ad,49976,3324,373
+276,32,Twitter,2025-04-16,http://twitter.com/status/276,Check out Gritzo Peanut Butter! #ad,34168,2382,253
+277,32,Twitter,2025-02-04,http://twitter.com/status/277,Check out HKVitals Multivitamins! #ad,48869,2565,432
+278,32,Twitter,2025-02-25,http://twitter.com/status/278,Check out MuscleBlaze Mass Gainer! #ad,50775,2214,386
+279,32,Twitter,2025-06-25,http://twitter.com/status/279,Check out Gritzo Peanut Butter! #ad,39353,797,49
+280,32,Twitter,2025-03-20,http://twitter.com/status/280,Check out MuscleBlaze Protein Powder! #ad,41795,2355,304
+281,33,Instagram,2025-06-29,http://instagram.com/post/281,Check out HKVitals Multivitamins! #ad,49193,1101,124
+282,33,Instagram,2025-07-02,http://instagram.com/post/282,Check out Gritzo Peanut Butter! #ad,41205,2547,318
+283,33,Instagram,2025-05-13,http://instagram.com/post/283,Check out MuscleBlaze BCAA! #ad,56373,1809,129
+284,33,Instagram,2025-04-22,http://instagram.com/post/284,Check out MuscleBlaze BCAA! #ad,50925,2471,192
+285,33,Instagram,2025-06-08,http://instagram.com/post/285,Check out MuscleBlaze BCAA! #ad,71765,1678,216
+286,33,Instagram,2025-05-08,http://instagram.com/post/286,Check out Gritzo Chia Seeds! #ad,39782,2532,143
+287,34,Instagram,2025-04-12,http://instagram.com/post/287,Check out HKVitals Probiotics! #ad,30788,1829,186
+288,34,Instagram,2025-06-20,http://instagram.com/post/288,Check out Gritzo Chia Seeds! #ad,33064,1623,265
+289,34,Instagram,2025-02-24,http://instagram.com/post/289,Check out MuscleBlaze Mass Gainer! #ad,44577,2704,206
+290,34,Instagram,2025-06-29,http://instagram.com/post/290,Check out Gritzo Peanut Butter! #ad,55894,2455,189
+291,34,Instagram,2025-02-24,http://instagram.com/post/291,Check out MuscleBlaze BCAA! #ad,50568,2168,203
+292,34,Instagram,2025-02-07,http://instagram.com/post/292,Check out MuscleBlaze Protein Powder! #ad,38580,1369,150
+293,34,Instagram,2025-07-06,http://instagram.com/post/293,Check out Gritzo Peanut Butter! #ad,36959,2131,167
+294,34,Instagram,2025-04-08,http://instagram.com/post/294,Check out MuscleBlaze BCAA! #ad,39005,1022,107
+295,34,Instagram,2025-07-21,http://instagram.com/post/295,Check out HKVitals Probiotics! #ad,41811,2835,285
+296,34,Instagram,2025-03-06,http://instagram.com/post/296,Check out HKVitals Probiotics! #ad,43315,2868,366
+297,34,Instagram,2025-07-04,http://instagram.com/post/297,Check out MuscleBlaze BCAA! #ad,41414,1719,342
+298,35,Twitter,2025-05-15,http://twitter.com/status/298,Check out HKVitals Omega 3! #ad,32529,1183,111
+299,35,Twitter,2025-04-26,http://twitter.com/status/299,Check out Gritzo Chia Seeds! #ad,40820,2224,228
+300,35,Twitter,2025-02-06,http://twitter.com/status/300,Check out Gritzo Peanut Butter! #ad,45657,1906,278
+301,35,Twitter,2025-07-02,http://twitter.com/status/301,Check out MuscleBlaze Protein Powder! #ad,47101,1898,240
+302,35,Twitter,2025-06-24,http://twitter.com/status/302,Check out Gritzo Oats! #ad,54318,1474,208
+303,35,Twitter,2025-06-30,http://twitter.com/status/303,Check out HKVitals Multivitamins! #ad,33134,1053,154
+304,35,Twitter,2025-04-09,http://twitter.com/status/304,Check out HKVitals Probiotics! #ad,30729,850,99
+305,36,Facebook,2025-04-11,http://facebook.com/posts/305,Check out HKVitals Multivitamins! #ad,29275,1360,149
+306,36,Facebook,2025-06-04,http://facebook.com/posts/306,Check out HKVitals Multivitamins! #ad,35777,761,59
+307,36,Facebook,2025-05-10,http://facebook.com/posts/307,Check out HKVitals Probiotics! #ad,21603,1269,197
+308,36,Facebook,2025-03-12,http://facebook.com/posts/308,Check out Gritzo Peanut Butter! #ad,31294,2188,175
+309,36,Facebook,2025-02-24,http://facebook.com/posts/309,Check out MuscleBlaze Mass Gainer! #ad,22526,1253,250
+310,36,Facebook,2025-07-05,http://facebook.com/posts/310,Check out Gritzo Peanut Butter! #ad,30854,1711,226
+311,36,Facebook,2025-03-26,http://facebook.com/posts/311,Check out HKVitals Multivitamins! #ad,31594,2096,305
+312,36,Facebook,2025-07-02,http://facebook.com/posts/312,Check out HKVitals Probiotics! #ad,23393,1620,273
+313,36,Facebook,2025-03-16,http://facebook.com/posts/313,Check out HKVitals Multivitamins! #ad,25692,1248,149
+314,36,Facebook,2025-05-16,http://facebook.com/posts/314,Check out MuscleBlaze BCAA! #ad,34494,803,88
+315,37,YouTube,2025-05-11,http://youtube.com/watch?v=315,Check out HKVitals Omega 3! #ad,20569,487,95
+316,37,YouTube,2025-06-03,http://youtube.com/watch?v=316,Check out MuscleBlaze Mass Gainer! #ad,16873,773,53
+317,37,YouTube,2025-07-09,http://youtube.com/watch?v=317,Check out Gritzo Chia Seeds! #ad,18134,1058,73
+318,37,YouTube,2025-05-07,http://youtube.com/watch?v=318,Check out MuscleBlaze Protein Powder! #ad,17414,613,45
+319,37,YouTube,2025-06-16,http://youtube.com/watch?v=319,Check out MuscleBlaze Mass Gainer! #ad,21852,1003,92
+320,37,YouTube,2025-02-13,http://youtube.com/watch?v=320,Check out HKVitals Multivitamins! #ad,18622,885,60
+321,37,YouTube,2025-03-29,http://youtube.com/watch?v=321,Check out Gritzo Chia Seeds! #ad,13024,677,93
+322,37,YouTube,2025-05-22,http://youtube.com/watch?v=322,Check out MuscleBlaze Protein Powder! #ad,18867,1057,148
+323,37,YouTube,2025-07-12,http://youtube.com/watch?v=323,Check out Gritzo Oats! #ad,20588,440,25
+324,37,YouTube,2025-06-03,http://youtube.com/watch?v=324,Check out Gritzo Peanut Butter! #ad,18789,1096,123
+325,37,YouTube,2025-06-02,http://youtube.com/watch?v=325,Check out MuscleBlaze Mass Gainer! #ad,21247,1004,146
+326,37,YouTube,2025-03-29,http://youtube.com/watch?v=326,Check out HKVitals Multivitamins! #ad,20376,1105,104
+327,38,Facebook,2025-06-12,http://facebook.com/posts/327,Check out MuscleBlaze Protein Powder! #ad,9831,434,34
+328,38,Facebook,2025-05-27,http://facebook.com/posts/328,Check out MuscleBlaze Mass Gainer! #ad,12413,446,88
+329,38,Facebook,2025-04-06,http://facebook.com/posts/329,Check out HKVitals Multivitamins! #ad,11796,539,35
+330,38,Facebook,2025-03-17,http://facebook.com/posts/330,Check out HKVitals Multivitamins! #ad,8777,284,18
+331,38,Facebook,2025-03-26,http://facebook.com/posts/331,Check out HKVitals Probiotics! #ad,9699,660,122
+332,38,Facebook,2025-07-06,http://facebook.com/posts/332,Check out HKVitals Probiotics! #ad,11554,340,25
+333,39,Twitter,2025-05-06,http://twitter.com/status/333,Check out HKVitals Omega 3! #ad,3257,219,27
+334,39,Twitter,2025-03-17,http://twitter.com/status/334,Check out MuscleBlaze BCAA! #ad,4160,93,11
+335,39,Twitter,2025-07-19,http://twitter.com/status/335,Check out Gritzo Chia Seeds! #ad,4482,209,37
+336,39,Twitter,2025-04-23,http://twitter.com/status/336,Check out MuscleBlaze Mass Gainer! #ad,5185,301,31
+337,39,Twitter,2025-04-17,http://twitter.com/status/337,Check out MuscleBlaze BCAA! #ad,4732,180,16
+338,39,Twitter,2025-04-14,http://twitter.com/status/338,Check out Gritzo Peanut Butter! #ad,5286,179,35
+339,39,Twitter,2025-06-10,http://twitter.com/status/339,Check out Gritzo Oats! #ad,3546,88,9
+340,39,Twitter,2025-04-05,http://twitter.com/status/340,Check out Gritzo Peanut Butter! #ad,5261,157,19
+341,39,Twitter,2025-05-06,http://twitter.com/status/341,Check out MuscleBlaze Protein Powder! #ad,3300,183,31
+342,39,Twitter,2025-05-10,http://twitter.com/status/342,Check out HKVitals Multivitamins! #ad,4853,222,22
+343,39,Twitter,2025-05-28,http://twitter.com/status/343,Check out HKVitals Multivitamins! #ad,4269,216,38
+344,39,Twitter,2025-05-24,http://twitter.com/status/344,Check out HKVitals Probiotics! #ad,5461,254,39
+345,40,Instagram,2025-05-01,http://instagram.com/post/345,Check out MuscleBlaze Mass Gainer! #ad,37465,954,107
+346,40,Instagram,2025-03-30,http://instagram.com/post/346,Check out Gritzo Chia Seeds! #ad,44920,2239,201
+347,40,Instagram,2025-06-05,http://instagram.com/post/347,Check out Gritzo Chia Seeds! #ad,34872,786,95
+348,40,Instagram,2025-05-11,http://instagram.com/post/348,Check out Gritzo Chia Seeds! #ad,44681,2772,200
+349,40,Instagram,2025-06-10,http://instagram.com/post/349,Check out MuscleBlaze Protein Powder! #ad,43502,2393,188
+350,40,Instagram,2025-04-25,http://instagram.com/post/350,Check out HKVitals Omega 3! #ad,32968,1797,200
+351,40,Instagram,2025-06-29,http://instagram.com/post/351,Check out Gritzo Peanut Butter! #ad,51011,2897,171
+352,40,Instagram,2025-02-25,http://instagram.com/post/352,Check out Gritzo Oats! #ad,43209,3020,367
+353,40,Instagram,2025-04-12,http://instagram.com/post/353,Check out HKVitals Multivitamins! #ad,40678,1897,250
+354,41,Instagram,2025-05-28,http://instagram.com/post/354,Check out HKVitals Multivitamins! #ad,11032,374,35
+355,41,Instagram,2025-03-28,http://instagram.com/post/355,Check out HKVitals Probiotics! #ad,7136,394,38
+356,41,Instagram,2025-04-07,http://instagram.com/post/356,Check out Gritzo Chia Seeds! #ad,7480,195,29
+357,41,Instagram,2025-04-13,http://instagram.com/post/357,Check out HKVitals Omega 3! #ad,11018,663,62
+358,41,Instagram,2025-03-26,http://instagram.com/post/358,Check out Gritzo Oats! #ad,7858,330,29
+359,41,Instagram,2025-05-02,http://instagram.com/post/359,Check out MuscleBlaze Protein Powder! #ad,10360,347,46
+360,41,Instagram,2025-03-23,http://instagram.com/post/360,Check out MuscleBlaze Protein Powder! #ad,9257,456,39
+361,41,Instagram,2025-06-08,http://instagram.com/post/361,Check out Gritzo Oats! #ad,9373,212,23
+362,41,Instagram,2025-06-17,http://instagram.com/post/362,Check out HKVitals Multivitamins! #ad,9598,257,50
+363,42,Twitter,2025-04-18,http://twitter.com/status/363,Check out Gritzo Peanut Butter! #ad,47599,1426,277
+364,42,Twitter,2025-04-01,http://twitter.com/status/364,Check out HKVitals Probiotics! #ad,35489,2073,306
+365,42,Twitter,2025-03-15,http://twitter.com/status/365,Check out Gritzo Chia Seeds! #ad,54711,3656,683
+366,42,Twitter,2025-03-04,http://twitter.com/status/366,Check out HKVitals Multivitamins! #ad,60814,1326,232
+367,42,Twitter,2025-07-01,http://twitter.com/status/367,Check out HKVitals Multivitamins! #ad,60892,4147,783
+368,42,Twitter,2025-07-18,http://twitter.com/status/368,Check out MuscleBlaze Protein Powder! #ad,42415,2126,402
+369,42,Twitter,2025-04-04,http://twitter.com/status/369,Check out HKVitals Omega 3! #ad,62412,2943,365
+370,43,Instagram,2025-07-13,http://instagram.com/post/370,Check out Gritzo Peanut Butter! #ad,10285,621,61
+371,43,Instagram,2025-06-20,http://instagram.com/post/371,Check out HKVitals Probiotics! #ad,10174,298,47
+372,43,Instagram,2025-07-02,http://instagram.com/post/372,Check out HKVitals Probiotics! #ad,13155,390,55
+373,43,Instagram,2025-06-02,http://instagram.com/post/373,Check out HKVitals Omega 3! #ad,12018,292,43
+374,43,Instagram,2025-03-06,http://instagram.com/post/374,Check out MuscleBlaze Mass Gainer! #ad,10648,345,30
+375,43,Instagram,2025-03-16,http://instagram.com/post/375,Check out HKVitals Omega 3! #ad,15153,531,84
+376,43,Instagram,2025-01-31,http://instagram.com/post/376,Check out HKVitals Probiotics! #ad,10905,346,51
+377,44,Instagram,2025-03-30,http://instagram.com/post/377,Check out MuscleBlaze Mass Gainer! #ad,34156,2259,413
+378,44,Instagram,2025-06-28,http://instagram.com/post/378,Check out HKVitals Probiotics! #ad,23672,1557,146
+379,44,Instagram,2025-05-28,http://instagram.com/post/379,Check out MuscleBlaze Protein Powder! #ad,39157,1719,203
+380,44,Instagram,2025-05-27,http://instagram.com/post/380,Check out HKVitals Omega 3! #ad,34448,2261,369
+381,44,Instagram,2025-07-04,http://instagram.com/post/381,Check out Gritzo Oats! #ad,35553,1920,267
+382,44,Instagram,2025-07-01,http://instagram.com/post/382,Check out MuscleBlaze BCAA! #ad,29744,1641,101
+383,44,Instagram,2025-05-19,http://instagram.com/post/383,Check out MuscleBlaze Protein Powder! #ad,36787,2396,192
+384,44,Instagram,2025-05-13,http://instagram.com/post/384,Check out MuscleBlaze Protein Powder! #ad,27557,1268,85
+385,44,Instagram,2025-03-10,http://instagram.com/post/385,Check out Gritzo Chia Seeds! #ad,30520,1982,231
+386,44,Instagram,2025-02-09,http://instagram.com/post/386,Check out HKVitals Multivitamins! #ad,30970,1326,77
+387,44,Instagram,2025-04-29,http://instagram.com/post/387,Check out Gritzo Peanut Butter! #ad,34842,1386,239
+388,44,Instagram,2025-06-23,http://instagram.com/post/388,Check out MuscleBlaze BCAA! #ad,22854,941,145
+389,45,Twitter,2025-07-22,http://twitter.com/status/389,Check out MuscleBlaze Mass Gainer! #ad,14917,603,99
+390,45,Twitter,2025-06-27,http://twitter.com/status/390,Check out Gritzo Chia Seeds! #ad,22562,925,184
+391,45,Twitter,2025-04-13,http://twitter.com/status/391,Check out HKVitals Omega 3! #ad,19199,1039,155
+392,45,Twitter,2025-05-14,http://twitter.com/status/392,Check out MuscleBlaze BCAA! #ad,25231,654,130
+393,45,Twitter,2025-04-15,http://twitter.com/status/393,Check out Gritzo Oats! #ad,23583,734,37
+394,46,Facebook,2025-03-28,http://facebook.com/posts/394,Check out HKVitals Probiotics! #ad,65165,2685,287
+395,46,Facebook,2025-03-15,http://facebook.com/posts/395,Check out MuscleBlaze Mass Gainer! #ad,52277,1766,336
+396,46,Facebook,2025-06-19,http://facebook.com/posts/396,Check out MuscleBlaze Protein Powder! #ad,68288,2797,461
+397,46,Facebook,2025-07-20,http://facebook.com/posts/397,Check out MuscleBlaze Protein Powder! #ad,47437,1188,65
+398,46,Facebook,2025-05-25,http://facebook.com/posts/398,Check out Gritzo Chia Seeds! #ad,70456,2271,128
+399,47,YouTube,2025-03-16,http://youtube.com/watch?v=399,Check out Gritzo Oats! #ad,34189,2010,142
+400,47,YouTube,2025-03-26,http://youtube.com/watch?v=400,Check out MuscleBlaze BCAA! #ad,31016,1515,251
+401,47,YouTube,2025-07-07,http://youtube.com/watch?v=401,Check out HKVitals Multivitamins! #ad,26133,709,105
+402,47,YouTube,2025-03-13,http://youtube.com/watch?v=402,Check out HKVitals Omega 3! #ad,25660,1227,170
+403,47,YouTube,2025-06-21,http://youtube.com/watch?v=403,Check out MuscleBlaze BCAA! #ad,32843,1569,89
+404,47,YouTube,2025-04-06,http://youtube.com/watch?v=404,Check out Gritzo Chia Seeds! #ad,27546,1273,196
+405,47,YouTube,2025-04-18,http://youtube.com/watch?v=405,Check out MuscleBlaze Mass Gainer! #ad,27463,1585,191
+406,47,YouTube,2025-07-13,http://youtube.com/watch?v=406,Check out MuscleBlaze Mass Gainer! #ad,36025,980,117
+407,47,YouTube,2025-02-09,http://youtube.com/watch?v=407,Check out Gritzo Peanut Butter! #ad,37987,1818,127
+408,47,YouTube,2025-03-17,http://youtube.com/watch?v=408,Check out HKVitals Multivitamins! #ad,26641,638,74
+409,47,YouTube,2025-04-11,http://youtube.com/watch?v=409,Check out MuscleBlaze BCAA! #ad,33658,993,89
+410,47,YouTube,2025-06-09,http://youtube.com/watch?v=410,Check out Gritzo Chia Seeds! #ad,21467,507,86
+411,48,Twitter,2025-05-02,http://twitter.com/status/411,Check out MuscleBlaze Mass Gainer! #ad,6947,454,37
+412,48,Twitter,2025-03-07,http://twitter.com/status/412,Check out Gritzo Oats! #ad,9044,521,97
+413,48,Twitter,2025-06-13,http://twitter.com/status/413,Check out Gritzo Chia Seeds! #ad,6481,426,56
+414,48,Twitter,2025-06-29,http://twitter.com/status/414,Check out HKVitals Omega 3! #ad,7718,404,38
+415,48,Twitter,2025-04-09,http://twitter.com/status/415,Check out Gritzo Peanut Butter! #ad,7717,464,73
+416,48,Twitter,2025-06-26,http://twitter.com/status/416,Check out HKVitals Multivitamins! #ad,7266,295,39
+417,48,Twitter,2025-03-13,http://twitter.com/status/417,Check out Gritzo Oats! #ad,5591,266,36
+418,48,Twitter,2025-06-18,http://twitter.com/status/418,Check out HKVitals Omega 3! #ad,6235,227,24
+419,49,Facebook,2025-05-06,http://facebook.com/posts/419,Check out Gritzo Chia Seeds! #ad,31941,1177,193
+420,49,Facebook,2025-05-04,http://facebook.com/posts/420,Check out Gritzo Chia Seeds! #ad,28855,1241,198
+421,49,Facebook,2025-04-07,http://facebook.com/posts/421,Check out MuscleBlaze Protein Powder! #ad,28563,1268,237
+422,49,Facebook,2025-05-14,http://facebook.com/posts/422,Check out Gritzo Oats! #ad,25591,1585,96
+423,49,Facebook,2025-07-07,http://facebook.com/posts/423,Check out Gritzo Oats! #ad,29230,1187,209
+424,49,Facebook,2025-03-15,http://facebook.com/posts/424,Check out MuscleBlaze BCAA! #ad,19946,617,73
+425,49,Facebook,2025-02-10,http://facebook.com/posts/425,Check out Gritzo Chia Seeds! #ad,27753,1410,172
+426,49,Facebook,2025-05-04,http://facebook.com/posts/426,Check out MuscleBlaze Protein Powder! #ad,25716,1043,54
+427,50,YouTube,2025-05-13,http://youtube.com/watch?v=427,Check out HKVitals Multivitamins! #ad,40513,2223,254
+428,50,YouTube,2025-07-25,http://youtube.com/watch?v=428,Check out MuscleBlaze Protein Powder! #ad,50608,2339,201
+429,50,YouTube,2025-05-29,http://youtube.com/watch?v=429,Check out Gritzo Peanut Butter! #ad,48112,1605,175
+430,50,YouTube,2025-04-12,http://youtube.com/watch?v=430,Check out HKVitals Omega 3! #ad,42037,2922,245
+431,50,YouTube,2025-06-11,http://youtube.com/watch?v=431,Check out MuscleBlaze BCAA! #ad,52395,2750,150
+432,50,YouTube,2025-04-18,http://youtube.com/watch?v=432,Check out HKVitals Omega 3! #ad,41739,951,48
+433,50,YouTube,2025-03-03,http://youtube.com/watch?v=433,Check out MuscleBlaze Mass Gainer! #ad,48843,2551,254
+434,50,YouTube,2025-07-15,http://youtube.com/watch?v=434,Check out MuscleBlaze BCAA! #ad,50635,1594,295
+435,50,YouTube,2025-06-13,http://youtube.com/watch?v=435,Check out Gritzo Peanut Butter! #ad,34903,2310,352
+436,51,YouTube,2025-07-23,http://youtube.com/watch?v=436,Check out Gritzo Chia Seeds! #ad,5560,161,28
+437,51,YouTube,2025-02-01,http://youtube.com/watch?v=437,Check out MuscleBlaze BCAA! #ad,3994,243,42
+438,51,YouTube,2025-02-13,http://youtube.com/watch?v=438,Check out HKVitals Multivitamins! #ad,5273,254,45
+439,51,YouTube,2025-06-10,http://youtube.com/watch?v=439,Check out Gritzo Peanut Butter! #ad,4725,269,45
+440,51,YouTube,2025-06-12,http://youtube.com/watch?v=440,Check out Gritzo Oats! #ad,5081,349,20
+441,51,YouTube,2025-04-24,http://youtube.com/watch?v=441,Check out MuscleBlaze Protein Powder! #ad,4593,268,51
+442,51,YouTube,2025-04-16,http://youtube.com/watch?v=442,Check out HKVitals Multivitamins! #ad,5487,324,38
+443,51,YouTube,2025-03-14,http://youtube.com/watch?v=443,Check out HKVitals Probiotics! #ad,6423,267,40
+444,51,YouTube,2025-06-06,http://youtube.com/watch?v=444,Check out HKVitals Multivitamins! #ad,5908,205,17
+445,52,YouTube,2025-02-14,http://youtube.com/watch?v=445,Check out HKVitals Multivitamins! #ad,49905,2954,216
+446,52,YouTube,2025-04-15,http://youtube.com/watch?v=446,Check out HKVitals Omega 3! #ad,41082,832,80
+447,52,YouTube,2025-04-09,http://youtube.com/watch?v=447,Check out HKVitals Multivitamins! #ad,41920,1231,144
+448,52,YouTube,2025-05-17,http://youtube.com/watch?v=448,Check out Gritzo Peanut Butter! #ad,40977,1003,133
+449,52,YouTube,2025-05-25,http://youtube.com/watch?v=449,Check out Gritzo Peanut Butter! #ad,65514,1350,151
+450,52,YouTube,2025-06-29,http://youtube.com/watch?v=450,Check out MuscleBlaze BCAA! #ad,66721,4354,856
+451,53,Facebook,2025-06-11,http://facebook.com/posts/451,Check out HKVitals Multivitamins! #ad,11395,399,49
+452,53,Facebook,2025-02-10,http://facebook.com/posts/452,Check out MuscleBlaze Mass Gainer! #ad,12592,440,73
+453,53,Facebook,2025-04-09,http://facebook.com/posts/453,Check out HKVitals Multivitamins! #ad,16476,737,105
+454,53,Facebook,2025-04-28,http://facebook.com/posts/454,Check out MuscleBlaze Protein Powder! #ad,12842,866,86
+455,53,Facebook,2025-05-30,http://facebook.com/posts/455,Check out HKVitals Omega 3! #ad,14026,582,100
+456,53,Facebook,2025-06-05,http://facebook.com/posts/456,Check out Gritzo Oats! #ad,12806,642,99
+457,53,Facebook,2025-05-02,http://facebook.com/posts/457,Check out HKVitals Multivitamins! #ad,18603,1273,119
+458,54,Twitter,2025-05-21,http://twitter.com/status/458,Check out MuscleBlaze Mass Gainer! #ad,5033,306,33
+459,54,Twitter,2025-02-20,http://twitter.com/status/459,Check out Gritzo Oats! #ad,5738,271,41
+460,54,Twitter,2025-05-16,http://twitter.com/status/460,Check out MuscleBlaze BCAA! #ad,5312,294,34
+461,54,Twitter,2025-03-27,http://twitter.com/status/461,Check out Gritzo Oats! #ad,6478,387,43
+462,54,Twitter,2025-05-06,http://twitter.com/status/462,Check out MuscleBlaze BCAA! #ad,4794,156,11
+463,54,Twitter,2025-04-21,http://twitter.com/status/463,Check out HKVitals Multivitamins! #ad,5271,263,36
+464,54,Twitter,2025-05-13,http://twitter.com/status/464,Check out Gritzo Chia Seeds! #ad,5171,112,21
+465,54,Twitter,2025-06-14,http://twitter.com/status/465,Check out Gritzo Chia Seeds! #ad,5888,142,23
+466,54,Twitter,2025-06-06,http://twitter.com/status/466,Check out Gritzo Peanut Butter! #ad,4349,220,29
+467,54,Twitter,2025-06-03,http://twitter.com/status/467,Check out Gritzo Chia Seeds! #ad,5110,294,57
+468,54,Twitter,2025-04-23,http://twitter.com/status/468,Check out MuscleBlaze Protein Powder! #ad,4128,128,20
+469,54,Twitter,2025-05-17,http://twitter.com/status/469,Check out Gritzo Chia Seeds! #ad,5683,240,26
+470,55,Twitter,2025-04-06,http://twitter.com/status/470,Check out MuscleBlaze Mass Gainer! #ad,12330,503,97
+471,55,Twitter,2025-02-21,http://twitter.com/status/471,Check out Gritzo Oats! #ad,14694,545,91
+472,55,Twitter,2025-05-10,http://twitter.com/status/472,Check out HKVitals Omega 3! #ad,15934,667,103
+473,55,Twitter,2025-04-01,http://twitter.com/status/473,Check out MuscleBlaze Mass Gainer! #ad,11749,652,34
+474,55,Twitter,2025-04-06,http://twitter.com/status/474,Check out Gritzo Oats! #ad,17884,504,99
+475,55,Twitter,2025-03-17,http://twitter.com/status/475,Check out Gritzo Oats! #ad,16669,609,69
+476,55,Twitter,2025-04-29,http://twitter.com/status/476,Check out MuscleBlaze Mass Gainer! #ad,17424,510,75
+477,56,Instagram,2025-02-04,http://instagram.com/post/477,Check out Gritzo Chia Seeds! #ad,53104,2255,258
+478,56,Instagram,2025-01-30,http://instagram.com/post/478,Check out Gritzo Oats! #ad,35556,2048,350
+479,56,Instagram,2025-02-10,http://instagram.com/post/479,Check out Gritzo Oats! #ad,50938,2386,250
+480,56,Instagram,2025-03-08,http://instagram.com/post/480,Check out HKVitals Multivitamins! #ad,37022,2337,301
+481,56,Instagram,2025-06-02,http://instagram.com/post/481,Check out HKVitals Probiotics! #ad,40293,1596,107
+482,56,Instagram,2025-04-07,http://instagram.com/post/482,Check out HKVitals Probiotics! #ad,34695,1862,316
+483,56,Instagram,2025-07-26,http://instagram.com/post/483,Check out Gritzo Chia Seeds! #ad,32421,865,58
+484,56,Instagram,2025-03-29,http://instagram.com/post/484,Check out MuscleBlaze Protein Powder! #ad,39896,1079,116
+485,56,Instagram,2025-05-25,http://instagram.com/post/485,Check out MuscleBlaze BCAA! #ad,40166,1176,170
+486,56,Instagram,2025-06-13,http://instagram.com/post/486,Check out Gritzo Oats! #ad,44601,1983,140
+487,56,Instagram,2025-03-31,http://instagram.com/post/487,Check out HKVitals Probiotics! #ad,31614,1199,61
+488,57,Twitter,2025-03-08,http://twitter.com/status/488,Check out HKVitals Probiotics! #ad,78982,3534,539
+489,57,Twitter,2025-04-20,http://twitter.com/status/489,Check out Gritzo Peanut Butter! #ad,78192,1887,103
+490,57,Twitter,2025-06-26,http://twitter.com/status/490,Check out MuscleBlaze Mass Gainer! #ad,56652,1769,165
+491,57,Twitter,2025-06-30,http://twitter.com/status/491,Check out HKVitals Probiotics! #ad,90181,5257,696
+492,57,Twitter,2025-02-20,http://twitter.com/status/492,Check out Gritzo Oats! #ad,67762,3195,634
+493,57,Twitter,2025-05-14,http://twitter.com/status/493,Check out MuscleBlaze BCAA! #ad,75956,2349,267
+494,57,Twitter,2025-06-21,http://twitter.com/status/494,Check out Gritzo Oats! #ad,69170,4839,568
+495,58,Twitter,2025-07-16,http://twitter.com/status/495,Check out MuscleBlaze Mass Gainer! #ad,20054,518,88
+496,58,Twitter,2025-03-11,http://twitter.com/status/496,Check out Gritzo Chia Seeds! #ad,18315,1154,163
+497,58,Twitter,2025-04-22,http://twitter.com/status/497,Check out MuscleBlaze BCAA! #ad,12888,390,31
+498,58,Twitter,2025-02-10,http://twitter.com/status/498,Check out Gritzo Peanut Butter! #ad,16767,835,62
+499,58,Twitter,2025-06-15,http://twitter.com/status/499,Check out HKVitals Omega 3! #ad,17166,1160,147
+500,58,Twitter,2025-07-23,http://twitter.com/status/500,Check out Gritzo Oats! #ad,12852,739,82
+501,58,Twitter,2025-02-10,http://twitter.com/status/501,Check out HKVitals Probiotics! #ad,12766,808,70
+502,58,Twitter,2025-06-16,http://twitter.com/status/502,Check out HKVitals Multivitamins! #ad,19029,1023,126
+503,58,Twitter,2025-05-21,http://twitter.com/status/503,Check out Gritzo Peanut Butter! #ad,17710,686,42
+504,58,Twitter,2025-07-02,http://twitter.com/status/504,Check out MuscleBlaze Mass Gainer! #ad,16603,563,107
+505,59,YouTube,2025-04-27,http://youtube.com/watch?v=505,Check out HKVitals Omega 3! #ad,1624,103,18
+506,59,YouTube,2025-02-16,http://youtube.com/watch?v=506,Check out Gritzo Peanut Butter! #ad,1673,91,16
+507,59,YouTube,2025-07-03,http://youtube.com/watch?v=507,Check out Gritzo Peanut Butter! #ad,1285,53,4
+508,59,YouTube,2025-03-22,http://youtube.com/watch?v=508,Check out HKVitals Omega 3! #ad,1397,68,9
+509,59,YouTube,2025-05-03,http://youtube.com/watch?v=509,Check out HKVitals Probiotics! #ad,1791,39,5
+510,59,YouTube,2025-07-11,http://youtube.com/watch?v=510,Check out HKVitals Multivitamins! #ad,1198,75,8
+511,59,YouTube,2025-01-29,http://youtube.com/watch?v=511,Check out HKVitals Multivitamins! #ad,2008,131,23
+512,59,YouTube,2025-03-29,http://youtube.com/watch?v=512,Check out MuscleBlaze Mass Gainer! #ad,1170,44,2
+513,59,YouTube,2025-06-07,http://youtube.com/watch?v=513,Check out Gritzo Oats! #ad,1131,57,9
+514,59,YouTube,2025-06-25,http://youtube.com/watch?v=514,Check out MuscleBlaze Mass Gainer! #ad,1692,93,4
+515,60,Instagram,2025-02-13,http://instagram.com/post/515,Check out MuscleBlaze BCAA! #ad,26004,1404,72
+516,60,Instagram,2025-06-13,http://instagram.com/post/516,Check out HKVitals Multivitamins! #ad,40230,1654,115
+517,60,Instagram,2025-02-12,http://instagram.com/post/517,Check out MuscleBlaze Mass Gainer! #ad,23449,1413,92
+518,60,Instagram,2025-04-10,http://instagram.com/post/518,Check out HKVitals Multivitamins! #ad,28927,1754,317
+519,60,Instagram,2025-06-03,http://instagram.com/post/519,Check out Gritzo Oats! #ad,23059,1110,157
+520,60,Instagram,2025-03-02,http://instagram.com/post/520,Check out HKVitals Omega 3! #ad,35269,1812,131
+521,60,Instagram,2025-04-19,http://instagram.com/post/521,Check out Gritzo Chia Seeds! #ad,30041,927,171
+522,60,Instagram,2025-02-25,http://instagram.com/post/522,Check out MuscleBlaze BCAA! #ad,35411,1330,152
+523,60,Instagram,2025-07-02,http://instagram.com/post/523,Check out MuscleBlaze Protein Powder! #ad,26952,652,86
+524,60,Instagram,2025-05-26,http://instagram.com/post/524,Check out Gritzo Chia Seeds! #ad,27101,1817,98
+525,60,Instagram,2025-07-13,http://instagram.com/post/525,Check out Gritzo Peanut Butter! #ad,25617,1289,100
+526,60,Instagram,2025-04-15,http://instagram.com/post/526,Check out HKVitals Probiotics! #ad,22800,1479,285
+527,61,YouTube,2025-04-14,http://youtube.com/watch?v=527,Check out MuscleBlaze Protein Powder! #ad,34636,1721,222
+528,61,YouTube,2025-01-31,http://youtube.com/watch?v=528,Check out HKVitals Omega 3! #ad,26995,1701,230
+529,61,YouTube,2025-04-10,http://youtube.com/watch?v=529,Check out Gritzo Chia Seeds! #ad,27842,1212,240
+530,61,YouTube,2025-02-12,http://youtube.com/watch?v=530,Check out MuscleBlaze BCAA! #ad,25655,849,47
+531,61,YouTube,2025-02-10,http://youtube.com/watch?v=531,Check out HKVitals Probiotics! #ad,30206,1680,277
+532,61,YouTube,2025-04-21,http://youtube.com/watch?v=532,Check out Gritzo Peanut Butter! #ad,25964,1215,173
+533,61,YouTube,2025-03-24,http://youtube.com/watch?v=533,Check out MuscleBlaze Mass Gainer! #ad,25894,1710,335
+534,61,YouTube,2025-02-28,http://youtube.com/watch?v=534,Check out Gritzo Peanut Butter! #ad,32373,1674,293
+535,61,YouTube,2025-06-10,http://youtube.com/watch?v=535,Check out Gritzo Oats! #ad,30698,1285,248
+536,61,YouTube,2025-03-16,http://youtube.com/watch?v=536,Check out MuscleBlaze Protein Powder! #ad,26043,1086,128
+537,61,YouTube,2025-05-27,http://youtube.com/watch?v=537,Check out MuscleBlaze Mass Gainer! #ad,38097,2015,153
+538,61,YouTube,2025-02-01,http://youtube.com/watch?v=538,Check out Gritzo Oats! #ad,38833,1094,211
+539,62,Facebook,2025-03-03,http://facebook.com/posts/539,Check out HKVitals Multivitamins! #ad,21451,1365,218
+540,62,Facebook,2025-02-21,http://facebook.com/posts/540,Check out MuscleBlaze Mass Gainer! #ad,22093,742,44
+541,62,Facebook,2025-06-16,http://facebook.com/posts/541,Check out Gritzo Chia Seeds! #ad,13921,595,61
+542,62,Facebook,2025-05-06,http://facebook.com/posts/542,Check out Gritzo Oats! #ad,17174,562,36
+543,62,Facebook,2025-05-21,http://facebook.com/posts/543,Check out Gritzo Chia Seeds! #ad,14350,818,41
+544,62,Facebook,2025-07-15,http://facebook.com/posts/544,Check out MuscleBlaze Protein Powder! #ad,13573,518,97
+545,62,Facebook,2025-03-05,http://facebook.com/posts/545,Check out MuscleBlaze BCAA! #ad,22048,1228,182
+546,62,Facebook,2025-03-14,http://facebook.com/posts/546,Check out HKVitals Multivitamins! #ad,17718,992,89
+547,62,Facebook,2025-02-13,http://facebook.com/posts/547,Check out Gritzo Peanut Butter! #ad,14395,772,44
+548,63,Facebook,2025-07-04,http://facebook.com/posts/548,Check out Gritzo Oats! #ad,36259,850,101
+549,63,Facebook,2025-03-25,http://facebook.com/posts/549,Check out HKVitals Omega 3! #ad,21424,917,96
+550,63,Facebook,2025-03-27,http://facebook.com/posts/550,Check out Gritzo Peanut Butter! #ad,32592,1047,110
+551,63,Facebook,2025-05-05,http://facebook.com/posts/551,Check out MuscleBlaze BCAA! #ad,35342,2050,177
+552,63,Facebook,2025-01-30,http://facebook.com/posts/552,Check out HKVitals Multivitamins! #ad,23930,893,157
+553,63,Facebook,2025-07-18,http://facebook.com/posts/553,Check out MuscleBlaze Mass Gainer! #ad,19972,1055,187
+554,63,Facebook,2025-06-19,http://facebook.com/posts/554,Check out HKVitals Multivitamins! #ad,23455,1622,183
+555,63,Facebook,2025-02-10,http://facebook.com/posts/555,Check out MuscleBlaze BCAA! #ad,24731,548,46
+556,64,Facebook,2025-06-14,http://facebook.com/posts/556,Check out HKVitals Omega 3! #ad,26267,636,40
+557,64,Facebook,2025-02-24,http://facebook.com/posts/557,Check out Gritzo Peanut Butter! #ad,15230,736,84
+558,64,Facebook,2025-02-23,http://facebook.com/posts/558,Check out MuscleBlaze Mass Gainer! #ad,17513,626,106
+559,64,Facebook,2025-06-14,http://facebook.com/posts/559,Check out Gritzo Peanut Butter! #ad,18214,611,37
+560,64,Facebook,2025-03-09,http://facebook.com/posts/560,Check out MuscleBlaze BCAA! #ad,15649,395,46
+561,64,Facebook,2025-03-31,http://facebook.com/posts/561,Check out HKVitals Multivitamins! #ad,20886,1425,115
+562,64,Facebook,2025-03-30,http://facebook.com/posts/562,Check out HKVitals Omega 3! #ad,24770,607,103
+563,64,Facebook,2025-03-29,http://facebook.com/posts/563,Check out Gritzo Chia Seeds! #ad,21713,667,119
+564,64,Facebook,2025-02-27,http://facebook.com/posts/564,Check out MuscleBlaze BCAA! #ad,17357,655,83
+565,64,Facebook,2025-06-10,http://facebook.com/posts/565,Check out HKVitals Omega 3! #ad,24372,699,134
+566,64,Facebook,2025-07-14,http://facebook.com/posts/566,Check out HKVitals Probiotics! #ad,23489,763,91
+567,65,Twitter,2025-02-22,http://twitter.com/status/567,Check out MuscleBlaze Protein Powder! #ad,3873,267,18
+568,65,Twitter,2025-07-08,http://twitter.com/status/568,Check out HKVitals Omega 3! #ad,3594,240,15
+569,65,Twitter,2025-05-23,http://twitter.com/status/569,Check out HKVitals Multivitamins! #ad,2305,53,9
+570,65,Twitter,2025-04-25,http://twitter.com/status/570,Check out MuscleBlaze Protein Powder! #ad,4018,246,24
+571,65,Twitter,2025-02-06,http://twitter.com/status/571,Check out HKVitals Multivitamins! #ad,2588,126,21
+572,65,Twitter,2025-04-16,http://twitter.com/status/572,Check out HKVitals Multivitamins! #ad,3005,124,12
+573,65,Twitter,2025-07-24,http://twitter.com/status/573,Check out MuscleBlaze Mass Gainer! #ad,2805,180,9
+574,66,Facebook,2025-06-04,http://facebook.com/posts/574,Check out HKVitals Omega 3! #ad,20317,965,57
+575,66,Facebook,2025-03-24,http://facebook.com/posts/575,Check out HKVitals Multivitamins! #ad,20410,1064,180
+576,66,Facebook,2025-03-18,http://facebook.com/posts/576,Check out Gritzo Chia Seeds! #ad,25244,1753,293
+577,66,Facebook,2025-04-09,http://facebook.com/posts/577,Check out HKVitals Probiotics! #ad,25072,932,125
+578,66,Facebook,2025-04-02,http://facebook.com/posts/578,Check out HKVitals Omega 3! #ad,17329,622,51
+579,66,Facebook,2025-07-22,http://facebook.com/posts/579,Check out HKVitals Multivitamins! #ad,25422,1107,114
+580,66,Facebook,2025-05-23,http://facebook.com/posts/580,Check out MuscleBlaze Protein Powder! #ad,16303,861,77
+581,66,Facebook,2025-07-07,http://facebook.com/posts/581,Check out Gritzo Oats! #ad,24848,1674,228
+582,67,Twitter,2025-04-08,http://twitter.com/status/582,Check out MuscleBlaze Protein Powder! #ad,19695,707,113
+583,67,Twitter,2025-04-09,http://twitter.com/status/583,Check out Gritzo Oats! #ad,26248,986,133
+584,67,Twitter,2025-02-26,http://twitter.com/status/584,Check out Gritzo Oats! #ad,28118,1701,332
+585,67,Twitter,2025-05-14,http://twitter.com/status/585,Check out HKVitals Multivitamins! #ad,23258,570,48
+586,67,Twitter,2025-03-13,http://twitter.com/status/586,Check out MuscleBlaze BCAA! #ad,23084,844,119
+587,67,Twitter,2025-07-05,http://twitter.com/status/587,Check out MuscleBlaze Mass Gainer! #ad,26437,1743,307
+588,67,Twitter,2025-04-02,http://twitter.com/status/588,Check out MuscleBlaze Protein Powder! #ad,18448,1018,72
+589,67,Twitter,2025-02-20,http://twitter.com/status/589,Check out Gritzo Peanut Butter! #ad,29857,1154,220
+590,67,Twitter,2025-04-16,http://twitter.com/status/590,Check out Gritzo Oats! #ad,21099,762,149
+591,67,Twitter,2025-06-20,http://twitter.com/status/591,Check out HKVitals Probiotics! #ad,29858,1566,119
+592,67,Twitter,2025-05-18,http://twitter.com/status/592,Check out Gritzo Chia Seeds! #ad,27421,854,118
+593,68,Twitter,2025-04-13,http://twitter.com/status/593,Check out HKVitals Probiotics! #ad,287905,7591,1209
+594,68,Twitter,2025-06-14,http://twitter.com/status/594,Check out Gritzo Peanut Butter! #ad,313086,18328,2476
+595,68,Twitter,2025-03-05,http://twitter.com/status/595,Check out Gritzo Peanut Butter! #ad,323993,22153,1841
+596,68,Twitter,2025-05-19,http://twitter.com/status/596,Check out MuscleBlaze Mass Gainer! #ad,202883,11618,995
+597,68,Twitter,2025-04-01,http://twitter.com/status/597,Check out MuscleBlaze BCAA! #ad,318450,7781,1216
+598,68,Twitter,2025-06-02,http://twitter.com/status/598,Check out Gritzo Peanut Butter! #ad,250369,8327,728
+599,68,Twitter,2025-02-11,http://twitter.com/status/599,Check out HKVitals Omega 3! #ad,303194,16985,971
+600,69,Facebook,2025-06-20,http://facebook.com/posts/600,Check out HKVitals Multivitamins! #ad,22364,998,106
+601,69,Facebook,2025-05-15,http://facebook.com/posts/601,Check out HKVitals Multivitamins! #ad,21757,1293,176
+602,69,Facebook,2025-06-25,http://facebook.com/posts/602,Check out Gritzo Oats! #ad,14493,343,60
+603,69,Facebook,2025-03-27,http://facebook.com/posts/603,Check out MuscleBlaze Mass Gainer! #ad,15567,392,39
+604,69,Facebook,2025-07-21,http://facebook.com/posts/604,Check out HKVitals Multivitamins! #ad,20701,980,181
+605,69,Facebook,2025-02-16,http://facebook.com/posts/605,Check out HKVitals Probiotics! #ad,23463,1517,236
+606,69,Facebook,2025-04-23,http://facebook.com/posts/606,Check out Gritzo Oats! #ad,19342,806,46
+607,69,Facebook,2025-04-03,http://facebook.com/posts/607,Check out MuscleBlaze Protein Powder! #ad,17182,819,154
+608,69,Facebook,2025-05-14,http://facebook.com/posts/608,Check out HKVitals Probiotics! #ad,15789,503,28
+609,69,Facebook,2025-05-20,http://facebook.com/posts/609,Check out Gritzo Peanut Butter! #ad,14395,547,62
+610,69,Facebook,2025-03-27,http://facebook.com/posts/610,Check out Gritzo Chia Seeds! #ad,19264,577,31
+611,69,Facebook,2025-03-03,http://facebook.com/posts/611,Check out Gritzo Peanut Butter! #ad,23373,1020,68
+612,70,Instagram,2025-05-01,http://instagram.com/post/612,Check out HKVitals Probiotics! #ad,25579,1332,144
+613,70,Instagram,2025-04-11,http://instagram.com/post/613,Check out HKVitals Omega 3! #ad,24178,537,62
+614,70,Instagram,2025-03-21,http://instagram.com/post/614,Check out MuscleBlaze Mass Gainer! #ad,30925,852,131
+615,70,Instagram,2025-02-17,http://instagram.com/post/615,Check out MuscleBlaze BCAA! #ad,26987,1270,248
+616,70,Instagram,2025-05-24,http://instagram.com/post/616,Check out MuscleBlaze BCAA! #ad,21934,863,110
+617,70,Instagram,2025-05-13,http://instagram.com/post/617,Check out Gritzo Peanut Butter! #ad,31077,987,93
+618,70,Instagram,2025-04-16,http://instagram.com/post/618,Check out Gritzo Oats! #ad,29815,1938,329
+619,70,Instagram,2025-06-10,http://instagram.com/post/619,Check out Gritzo Oats! #ad,22993,1330,100
+620,70,Instagram,2025-03-03,http://instagram.com/post/620,Check out MuscleBlaze Protein Powder! #ad,23099,950,188
+621,70,Instagram,2025-04-24,http://instagram.com/post/621,Check out MuscleBlaze BCAA! #ad,23486,1168,114
+622,70,Instagram,2025-06-19,http://instagram.com/post/622,Check out MuscleBlaze Protein Powder! #ad,27778,1107,109
+623,71,YouTube,2025-05-10,http://youtube.com/watch?v=623,Check out HKVitals Multivitamins! #ad,80940,4140,531
+624,71,YouTube,2025-04-21,http://youtube.com/watch?v=624,Check out MuscleBlaze Mass Gainer! #ad,54547,2636,362
+625,71,YouTube,2025-02-18,http://youtube.com/watch?v=625,Check out MuscleBlaze BCAA! #ad,80650,4781,861
+626,71,YouTube,2025-07-19,http://youtube.com/watch?v=626,Check out HKVitals Omega 3! #ad,59291,3126,424
+627,71,YouTube,2025-05-01,http://youtube.com/watch?v=627,Check out MuscleBlaze Protein Powder! #ad,59759,1625,229
+628,71,YouTube,2025-06-13,http://youtube.com/watch?v=628,Check out HKVitals Multivitamins! #ad,64747,4140,635
+629,71,YouTube,2025-02-08,http://youtube.com/watch?v=629,Check out Gritzo Peanut Butter! #ad,86505,5609,297
+630,71,YouTube,2025-07-07,http://youtube.com/watch?v=630,Check out HKVitals Omega 3! #ad,59963,2673,412
+631,71,YouTube,2025-02-17,http://youtube.com/watch?v=631,Check out MuscleBlaze Protein Powder! #ad,60797,3476,577
+632,72,Instagram,2025-03-22,http://instagram.com/post/632,Check out Gritzo Peanut Butter! #ad,49662,1214,141
+633,72,Instagram,2025-07-25,http://instagram.com/post/633,Check out HKVitals Probiotics! #ad,46284,2120,224
+634,72,Instagram,2025-02-09,http://instagram.com/post/634,Check out Gritzo Oats! #ad,34543,1916,211
+635,72,Instagram,2025-06-30,http://instagram.com/post/635,Check out Gritzo Chia Seeds! #ad,33515,993,173
+636,72,Instagram,2025-07-11,http://instagram.com/post/636,Check out MuscleBlaze Protein Powder! #ad,33631,757,78
+637,72,Instagram,2025-03-09,http://instagram.com/post/637,Check out HKVitals Omega 3! #ad,55788,2524,366
+638,72,Instagram,2025-02-22,http://instagram.com/post/638,Check out Gritzo Oats! #ad,39486,1754,205
+639,72,Instagram,2025-07-17,http://instagram.com/post/639,Check out HKVitals Probiotics! #ad,48158,1792,314
+640,72,Instagram,2025-03-20,http://instagram.com/post/640,Check out Gritzo Chia Seeds! #ad,35237,753,43
+641,72,Instagram,2025-07-14,http://instagram.com/post/641,Check out Gritzo Oats! #ad,56730,2970,450
+642,73,YouTube,2025-06-05,http://youtube.com/watch?v=642,Check out HKVitals Probiotics! #ad,63777,3763,621
+643,73,YouTube,2025-01-31,http://youtube.com/watch?v=643,Check out HKVitals Multivitamins! #ad,97491,4880,250
+644,73,YouTube,2025-03-19,http://youtube.com/watch?v=644,Check out Gritzo Peanut Butter! #ad,101004,5602,511
+645,73,YouTube,2025-07-22,http://youtube.com/watch?v=645,Check out HKVitals Omega 3! #ad,87367,2700,257
+646,73,YouTube,2025-05-10,http://youtube.com/watch?v=646,Check out Gritzo Peanut Butter! #ad,94111,1916,383
+647,73,YouTube,2025-07-12,http://youtube.com/watch?v=647,Check out HKVitals Probiotics! #ad,97489,4918,466
+648,73,YouTube,2025-02-19,http://youtube.com/watch?v=648,Check out HKVitals Multivitamins! #ad,80772,2732,269
+649,73,YouTube,2025-03-24,http://youtube.com/watch?v=649,Check out HKVitals Probiotics! #ad,100915,6520,618
+650,73,YouTube,2025-02-27,http://youtube.com/watch?v=650,Check out Gritzo Oats! #ad,111051,6693,1140
+651,74,YouTube,2025-06-06,http://youtube.com/watch?v=651,Check out HKVitals Probiotics! #ad,4249,90,11
+652,74,YouTube,2025-03-28,http://youtube.com/watch?v=652,Check out HKVitals Omega 3! #ad,5110,290,39
+653,74,YouTube,2025-05-20,http://youtube.com/watch?v=653,Check out MuscleBlaze Mass Gainer! #ad,6157,191,24
+654,74,YouTube,2025-07-01,http://youtube.com/watch?v=654,Check out HKVitals Probiotics! #ad,4960,173,13
+655,74,YouTube,2025-06-06,http://youtube.com/watch?v=655,Check out Gritzo Oats! #ad,4750,206,33
+656,74,YouTube,2025-06-19,http://youtube.com/watch?v=656,Check out Gritzo Oats! #ad,6874,446,66
+657,74,YouTube,2025-03-13,http://youtube.com/watch?v=657,Check out HKVitals Multivitamins! #ad,6215,219,36
+658,74,YouTube,2025-04-03,http://youtube.com/watch?v=658,Check out HKVitals Omega 3! #ad,5699,246,16
+659,74,YouTube,2025-02-09,http://youtube.com/watch?v=659,Check out Gritzo Chia Seeds! #ad,5682,289,34
+660,74,YouTube,2025-03-08,http://youtube.com/watch?v=660,Check out Gritzo Oats! #ad,6616,258,24
+661,74,YouTube,2025-02-09,http://youtube.com/watch?v=661,Check out MuscleBlaze Protein Powder! #ad,7022,260,51
+662,75,Twitter,2025-02-26,http://twitter.com/status/662,Check out HKVitals Probiotics! #ad,6611,158,15
+663,75,Twitter,2025-03-04,http://twitter.com/status/663,Check out HKVitals Probiotics! #ad,6010,256,20
+664,75,Twitter,2025-06-28,http://twitter.com/status/664,Check out MuscleBlaze BCAA! #ad,9478,421,69
+665,75,Twitter,2025-02-15,http://twitter.com/status/665,Check out MuscleBlaze BCAA! #ad,7854,325,37
+666,75,Twitter,2025-05-02,http://twitter.com/status/666,Check out HKVitals Multivitamins! #ad,5911,177,18
+667,75,Twitter,2025-02-01,http://twitter.com/status/667,Check out HKVitals Probiotics! #ad,6661,358,51
+668,75,Twitter,2025-03-18,http://twitter.com/status/668,Check out MuscleBlaze BCAA! #ad,10030,357,23
+669,75,Twitter,2025-05-07,http://twitter.com/status/669,Check out Gritzo Peanut Butter! #ad,6545,400,37
+670,75,Twitter,2025-03-27,http://twitter.com/status/670,Check out HKVitals Probiotics! #ad,8279,382,43
+671,75,Twitter,2025-06-11,http://twitter.com/status/671,Check out MuscleBlaze Mass Gainer! #ad,10615,472,76
+672,75,Twitter,2025-03-02,http://twitter.com/status/672,Check out HKVitals Multivitamins! #ad,6847,385,26
+673,75,Twitter,2025-06-21,http://twitter.com/status/673,Check out MuscleBlaze BCAA! #ad,8202,214,33
+674,76,Twitter,2025-04-12,http://twitter.com/status/674,Check out Gritzo Peanut Butter! #ad,14536,743,103
+675,76,Twitter,2025-02-07,http://twitter.com/status/675,Check out Gritzo Oats! #ad,13653,286,43
+676,76,Twitter,2025-04-20,http://twitter.com/status/676,Check out HKVitals Omega 3! #ad,9678,315,48
+677,76,Twitter,2025-03-10,http://twitter.com/status/677,Check out Gritzo Chia Seeds! #ad,13479,472,70
+678,76,Twitter,2025-06-07,http://twitter.com/status/678,Check out Gritzo Peanut Butter! #ad,13423,738,83
+679,77,Facebook,2025-05-08,http://facebook.com/posts/679,Check out Gritzo Chia Seeds! #ad,3599,92,6
+680,77,Facebook,2025-03-09,http://facebook.com/posts/680,Check out Gritzo Oats! #ad,5450,335,65
+681,77,Facebook,2025-04-09,http://facebook.com/posts/681,Check out Gritzo Peanut Butter! #ad,4097,90,11
+682,77,Facebook,2025-03-10,http://facebook.com/posts/682,Check out Gritzo Peanut Butter! #ad,4196,84,12
+683,77,Facebook,2025-07-24,http://facebook.com/posts/683,Check out MuscleBlaze BCAA! #ad,5144,141,8
+684,77,Facebook,2025-05-08,http://facebook.com/posts/684,Check out MuscleBlaze BCAA! #ad,5297,345,50
+685,78,Facebook,2025-03-28,http://facebook.com/posts/685,Check out HKVitals Omega 3! #ad,17221,1044,189
+686,78,Facebook,2025-07-14,http://facebook.com/posts/686,Check out HKVitals Omega 3! #ad,27857,992,159
+687,78,Facebook,2025-02-17,http://facebook.com/posts/687,Check out MuscleBlaze Protein Powder! #ad,28570,1519,114
+688,78,Facebook,2025-04-09,http://facebook.com/posts/688,Check out HKVitals Probiotics! #ad,20309,1150,121
+689,78,Facebook,2025-04-06,http://facebook.com/posts/689,Check out MuscleBlaze Protein Powder! #ad,22184,1511,137
+690,78,Facebook,2025-04-14,http://facebook.com/posts/690,Check out Gritzo Peanut Butter! #ad,27833,1459,247
+691,78,Facebook,2025-02-20,http://facebook.com/posts/691,Check out MuscleBlaze BCAA! #ad,26793,1850,326
+692,78,Facebook,2025-02-18,http://facebook.com/posts/692,Check out HKVitals Probiotics! #ad,23343,1130,130
+693,78,Facebook,2025-05-28,http://facebook.com/posts/693,Check out HKVitals Omega 3! #ad,25165,1588,289
+694,78,Facebook,2025-06-19,http://facebook.com/posts/694,Check out MuscleBlaze Mass Gainer! #ad,29539,757,84
+695,78,Facebook,2025-02-07,http://facebook.com/posts/695,Check out MuscleBlaze Mass Gainer! #ad,25782,531,95
+696,78,Facebook,2025-05-11,http://facebook.com/posts/696,Check out Gritzo Chia Seeds! #ad,26756,834,161
+697,79,Instagram,2025-05-10,http://instagram.com/post/697,Check out Gritzo Chia Seeds! #ad,37859,937,139
+698,79,Instagram,2025-03-18,http://instagram.com/post/698,Check out HKVitals Omega 3! #ad,37112,1932,139
+699,79,Instagram,2025-07-09,http://instagram.com/post/699,Check out Gritzo Chia Seeds! #ad,24761,1291,94
+700,79,Instagram,2025-07-13,http://instagram.com/post/700,Check out HKVitals Omega 3! #ad,41283,980,121
+701,79,Instagram,2025-03-17,http://instagram.com/post/701,Check out HKVitals Omega 3! #ad,24676,768,112
+702,79,Instagram,2025-04-17,http://instagram.com/post/702,Check out MuscleBlaze Protein Powder! #ad,32963,1979,231
+703,79,Instagram,2025-07-14,http://instagram.com/post/703,Check out HKVitals Omega 3! #ad,30063,2075,335
+704,79,Instagram,2025-02-02,http://instagram.com/post/704,Check out MuscleBlaze Mass Gainer! #ad,32015,1532,76
+705,79,Instagram,2025-02-16,http://instagram.com/post/705,Check out Gritzo Chia Seeds! #ad,36581,2359,316
+706,79,Instagram,2025-06-05,http://instagram.com/post/706,Check out Gritzo Peanut Butter! #ad,42924,1638,95
+707,80,Twitter,2025-07-12,http://twitter.com/status/707,Check out HKVitals Omega 3! #ad,1930,98,11
+708,80,Twitter,2025-06-06,http://twitter.com/status/708,Check out HKVitals Probiotics! #ad,1809,44,6
+709,80,Twitter,2025-01-30,http://twitter.com/status/709,Check out HKVitals Omega 3! #ad,2231,152,14
+710,80,Twitter,2025-05-10,http://twitter.com/status/710,Check out HKVitals Probiotics! #ad,1422,92,11
+711,80,Twitter,2025-07-08,http://twitter.com/status/711,Check out Gritzo Chia Seeds! #ad,2110,53,7
+712,80,Twitter,2025-03-07,http://twitter.com/status/712,Check out MuscleBlaze Mass Gainer! #ad,1545,94,7
+713,80,Twitter,2025-04-05,http://twitter.com/status/713,Check out MuscleBlaze Mass Gainer! #ad,1356,70,10
+714,80,Twitter,2025-02-22,http://twitter.com/status/714,Check out HKVitals Omega 3! #ad,2040,138,9
+715,81,Instagram,2025-01-30,http://instagram.com/post/715,Check out Gritzo Chia Seeds! #ad,11241,750,131
+716,81,Instagram,2025-05-03,http://instagram.com/post/716,Check out Gritzo Oats! #ad,17191,493,84
+717,81,Instagram,2025-02-18,http://instagram.com/post/717,Check out HKVitals Probiotics! #ad,16347,1048,131
+718,81,Instagram,2025-04-14,http://instagram.com/post/718,Check out HKVitals Probiotics! #ad,19264,1119,101
+719,81,Instagram,2025-04-06,http://instagram.com/post/719,Check out HKVitals Omega 3! #ad,18236,490,68
+720,81,Instagram,2025-07-20,http://instagram.com/post/720,Check out Gritzo Chia Seeds! #ad,13556,746,133
+721,81,Instagram,2025-06-16,http://instagram.com/post/721,Check out Gritzo Chia Seeds! #ad,16643,500,71
+722,81,Instagram,2025-03-27,http://instagram.com/post/722,Check out Gritzo Peanut Butter! #ad,19313,514,80
+723,81,Instagram,2025-03-05,http://instagram.com/post/723,Check out Gritzo Chia Seeds! #ad,17214,621,41
+724,81,Instagram,2025-04-08,http://instagram.com/post/724,Check out Gritzo Peanut Butter! #ad,16182,1086,169
+725,81,Instagram,2025-06-09,http://instagram.com/post/725,Check out Gritzo Chia Seeds! #ad,13436,837,143
+726,81,Instagram,2025-05-11,http://instagram.com/post/726,Check out MuscleBlaze Protein Powder! #ad,14315,324,18
+727,82,Facebook,2025-06-24,http://facebook.com/posts/727,Check out MuscleBlaze Mass Gainer! #ad,42637,1164,69
+728,82,Facebook,2025-06-30,http://facebook.com/posts/728,Check out HKVitals Multivitamins! #ad,44255,956,164
+729,82,Facebook,2025-02-18,http://facebook.com/posts/729,Check out Gritzo Chia Seeds! #ad,43930,2778,448
+730,82,Facebook,2025-05-18,http://facebook.com/posts/730,Check out HKVitals Multivitamins! #ad,38662,2313,357
+731,82,Facebook,2025-06-13,http://facebook.com/posts/731,Check out Gritzo Oats! #ad,48240,1899,367
+732,82,Facebook,2025-06-11,http://facebook.com/posts/732,Check out HKVitals Probiotics! #ad,28127,1608,129
+733,82,Facebook,2025-07-17,http://facebook.com/posts/733,Check out HKVitals Multivitamins! #ad,47894,2645,389
+734,82,Facebook,2025-06-25,http://facebook.com/posts/734,Check out Gritzo Chia Seeds! #ad,43906,1309,207
+735,82,Facebook,2025-03-08,http://facebook.com/posts/735,Check out HKVitals Omega 3! #ad,30976,1676,130
+736,83,Facebook,2025-06-21,http://facebook.com/posts/736,Check out Gritzo Oats! #ad,79805,3305,441
+737,83,Facebook,2025-02-23,http://facebook.com/posts/737,Check out MuscleBlaze BCAA! #ad,104039,2110,253
+738,83,Facebook,2025-02-28,http://facebook.com/posts/738,Check out MuscleBlaze Protein Powder! #ad,108309,5398,896
+739,83,Facebook,2025-05-31,http://facebook.com/posts/739,Check out Gritzo Chia Seeds! #ad,75874,4514,598
+740,83,Facebook,2025-02-12,http://facebook.com/posts/740,Check out Gritzo Peanut Butter! #ad,87465,5934,760
+741,83,Facebook,2025-07-01,http://facebook.com/posts/741,Check out Gritzo Oats! #ad,81807,3832,244
+742,83,Facebook,2025-03-13,http://facebook.com/posts/742,Check out MuscleBlaze BCAA! #ad,77462,2946,243
+743,84,Instagram,2025-05-18,http://instagram.com/post/743,Check out Gritzo Oats! #ad,214545,8002,688
+744,84,Instagram,2025-06-03,http://instagram.com/post/744,Check out Gritzo Chia Seeds! #ad,236162,5194,949
+745,84,Instagram,2025-04-13,http://instagram.com/post/745,Check out MuscleBlaze Mass Gainer! #ad,238299,13392,719
+746,84,Instagram,2025-05-09,http://instagram.com/post/746,Check out HKVitals Probiotics! #ad,329755,13941,788
+747,84,Instagram,2025-07-23,http://instagram.com/post/747,Check out Gritzo Oats! #ad,248968,6004,386
+748,84,Instagram,2025-06-28,http://instagram.com/post/748,Check out Gritzo Chia Seeds! #ad,196565,4574,688
+749,84,Instagram,2025-06-28,http://instagram.com/post/749,Check out MuscleBlaze BCAA! #ad,266364,6711,876
+750,84,Instagram,2025-06-15,http://instagram.com/post/750,Check out Gritzo Peanut Butter! #ad,303593,20336,3295
+751,84,Instagram,2025-02-28,http://instagram.com/post/751,Check out MuscleBlaze Mass Gainer! #ad,315364,6904,421
+752,84,Instagram,2025-03-05,http://instagram.com/post/752,Check out HKVitals Probiotics! #ad,207132,12651,2361
+753,84,Instagram,2025-04-18,http://instagram.com/post/753,Check out HKVitals Omega 3! #ad,300856,12531,658
+754,84,Instagram,2025-06-09,http://instagram.com/post/754,Check out MuscleBlaze BCAA! #ad,196325,10997,654
+755,85,Facebook,2025-06-14,http://facebook.com/posts/755,Check out MuscleBlaze Mass Gainer! #ad,75287,1905,320
+756,85,Facebook,2025-03-29,http://facebook.com/posts/756,Check out Gritzo Oats! #ad,52050,3452,370
+757,85,Facebook,2025-07-08,http://facebook.com/posts/757,Check out Gritzo Oats! #ad,58968,2752,193
+758,85,Facebook,2025-04-15,http://facebook.com/posts/758,Check out Gritzo Peanut Butter! #ad,76441,2079,315
+759,85,Facebook,2025-07-26,http://facebook.com/posts/759,Check out Gritzo Chia Seeds! #ad,55343,3734,496
+760,86,Instagram,2025-02-22,http://instagram.com/post/760,Check out MuscleBlaze Protein Powder! #ad,26772,1062,140
+761,86,Instagram,2025-02-15,http://instagram.com/post/761,Check out HKVitals Multivitamins! #ad,29474,1921,195
+762,86,Instagram,2025-04-19,http://instagram.com/post/762,Check out Gritzo Chia Seeds! #ad,20149,588,83
+763,86,Instagram,2025-03-19,http://instagram.com/post/763,Check out MuscleBlaze Protein Powder! #ad,20748,1244,221
+764,86,Instagram,2025-07-13,http://instagram.com/post/764,Check out Gritzo Peanut Butter! #ad,27879,659,99
+765,86,Instagram,2025-03-19,http://instagram.com/post/765,Check out MuscleBlaze Protein Powder! #ad,29125,1291,128
+766,86,Instagram,2025-02-23,http://instagram.com/post/766,Check out Gritzo Chia Seeds! #ad,21566,738,44
+767,87,Twitter,2025-04-01,http://twitter.com/status/767,Check out HKVitals Omega 3! #ad,44688,2367,364
+768,87,Twitter,2025-02-28,http://twitter.com/status/768,Check out Gritzo Chia Seeds! #ad,45768,1639,187
+769,87,Twitter,2025-01-30,http://twitter.com/status/769,Check out HKVitals Multivitamins! #ad,58357,3245,474
+770,87,Twitter,2025-03-24,http://twitter.com/status/770,Check out HKVitals Multivitamins! #ad,55186,2018,246
+771,87,Twitter,2025-04-26,http://twitter.com/status/771,Check out HKVitals Omega 3! #ad,49429,1257,184
+772,87,Twitter,2025-02-14,http://twitter.com/status/772,Check out HKVitals Multivitamins! #ad,61515,1834,293
+773,87,Twitter,2025-05-31,http://twitter.com/status/773,Check out MuscleBlaze BCAA! #ad,37127,777,97
+774,87,Twitter,2025-02-04,http://twitter.com/status/774,Check out Gritzo Chia Seeds! #ad,46983,2325,432
+775,88,Facebook,2025-05-15,http://facebook.com/posts/775,Check out Gritzo Peanut Butter! #ad,38561,1057,115
+776,88,Facebook,2025-07-21,http://facebook.com/posts/776,Check out Gritzo Chia Seeds! #ad,42867,1144,143
+777,88,Facebook,2025-02-16,http://facebook.com/posts/777,Check out HKVitals Omega 3! #ad,35347,1878,332
+778,88,Facebook,2025-07-05,http://facebook.com/posts/778,Check out Gritzo Chia Seeds! #ad,28224,1290,150
+779,88,Facebook,2025-03-05,http://facebook.com/posts/779,Check out Gritzo Chia Seeds! #ad,38678,2645,424
+780,88,Facebook,2025-05-03,http://facebook.com/posts/780,Check out HKVitals Multivitamins! #ad,29346,1302,77
+781,88,Facebook,2025-04-11,http://facebook.com/posts/781,Check out MuscleBlaze Protein Powder! #ad,38872,1784,300
+782,88,Facebook,2025-04-14,http://facebook.com/posts/782,Check out HKVitals Omega 3! #ad,43383,954,140
+783,88,Facebook,2025-02-18,http://facebook.com/posts/783,Check out Gritzo Chia Seeds! #ad,38131,1284,207
+784,89,Facebook,2025-04-12,http://facebook.com/posts/784,Check out Gritzo Peanut Butter! #ad,47558,2504,439
+785,89,Facebook,2025-05-09,http://facebook.com/posts/785,Check out HKVitals Omega 3! #ad,66413,2068,229
+786,89,Facebook,2025-07-07,http://facebook.com/posts/786,Check out HKVitals Omega 3! #ad,60825,3914,199
+787,89,Facebook,2025-07-19,http://facebook.com/posts/787,Check out MuscleBlaze Mass Gainer! #ad,41359,986,144
+788,89,Facebook,2025-03-11,http://facebook.com/posts/788,Check out MuscleBlaze Protein Powder! #ad,41103,2059,355
+789,89,Facebook,2025-06-06,http://facebook.com/posts/789,Check out MuscleBlaze Mass Gainer! #ad,61400,3439,420
+790,89,Facebook,2025-05-02,http://facebook.com/posts/790,Check out HKVitals Multivitamins! #ad,54558,2856,318
+791,90,Instagram,2025-02-06,http://instagram.com/post/791,Check out MuscleBlaze BCAA! #ad,139040,3717,471
+792,90,Instagram,2025-07-21,http://instagram.com/post/792,Check out Gritzo Oats! #ad,96638,3180,244
+793,90,Instagram,2025-04-18,http://instagram.com/post/793,Check out Gritzo Chia Seeds! #ad,142619,9116,1451
+794,90,Instagram,2025-07-08,http://instagram.com/post/794,Check out HKVitals Multivitamins! #ad,109339,5502,664
+795,90,Instagram,2025-05-03,http://instagram.com/post/795,Check out MuscleBlaze Protein Powder! #ad,157854,7899,1336
+796,90,Instagram,2025-07-07,http://instagram.com/post/796,Check out MuscleBlaze BCAA! #ad,144360,4796,760
+797,90,Instagram,2025-04-06,http://instagram.com/post/797,Check out HKVitals Probiotics! #ad,138902,4374,471
+798,90,Instagram,2025-02-19,http://instagram.com/post/798,Check out MuscleBlaze Protein Powder! #ad,133536,8742,1334
+799,91,Instagram,2025-05-27,http://instagram.com/post/799,Check out MuscleBlaze Protein Powder! #ad,140250,7115,397
+800,91,Instagram,2025-06-30,http://instagram.com/post/800,Check out Gritzo Chia Seeds! #ad,163861,4040,601
+801,91,Instagram,2025-07-23,http://instagram.com/post/801,Check out Gritzo Chia Seeds! #ad,170276,11042,1835
+802,91,Instagram,2025-06-04,http://instagram.com/post/802,Check out HKVitals Probiotics! #ad,135538,8639,1335
+803,91,Instagram,2025-04-22,http://instagram.com/post/803,Check out MuscleBlaze Mass Gainer! #ad,167035,6524,902
+804,91,Instagram,2025-06-22,http://instagram.com/post/804,Check out Gritzo Chia Seeds! #ad,107961,2881,350
+805,91,Instagram,2025-03-15,http://instagram.com/post/805,Check out MuscleBlaze Mass Gainer! #ad,150703,7111,630
+806,92,Instagram,2025-06-16,http://instagram.com/post/806,Check out Gritzo Oats! #ad,37032,958,48
+807,92,Instagram,2025-06-05,http://instagram.com/post/807,Check out MuscleBlaze BCAA! #ad,41835,1691,111
+808,92,Instagram,2025-04-22,http://instagram.com/post/808,Check out Gritzo Chia Seeds! #ad,30147,1891,214
+809,92,Instagram,2025-04-10,http://instagram.com/post/809,Check out Gritzo Peanut Butter! #ad,45816,1826,147
+810,92,Instagram,2025-05-16,http://instagram.com/post/810,Check out Gritzo Peanut Butter! #ad,28557,1369,167
+811,93,Instagram,2025-05-21,http://instagram.com/post/811,Check out HKVitals Probiotics! #ad,20579,553,99
+812,93,Instagram,2025-02-21,http://instagram.com/post/812,Check out Gritzo Oats! #ad,21216,1166,86
+813,93,Instagram,2025-03-12,http://instagram.com/post/813,Check out Gritzo Peanut Butter! #ad,25681,1541,218
+814,93,Instagram,2025-06-11,http://instagram.com/post/814,Check out Gritzo Oats! #ad,17457,1191,60
+815,93,Instagram,2025-02-16,http://instagram.com/post/815,Check out MuscleBlaze Mass Gainer! #ad,27519,1149,68
+816,93,Instagram,2025-03-13,http://instagram.com/post/816,Check out HKVitals Multivitamins! #ad,23352,1312,248
+817,93,Instagram,2025-04-17,http://instagram.com/post/817,Check out Gritzo Chia Seeds! #ad,22195,1233,172
+818,93,Instagram,2025-06-28,http://instagram.com/post/818,Check out MuscleBlaze BCAA! #ad,21844,448,79
+819,93,Instagram,2025-07-04,http://instagram.com/post/819,Check out Gritzo Peanut Butter! #ad,17904,1059,134
+820,94,Facebook,2025-05-29,http://facebook.com/posts/820,Check out MuscleBlaze BCAA! #ad,10833,346,17
+821,94,Facebook,2025-03-01,http://facebook.com/posts/821,Check out MuscleBlaze Mass Gainer! #ad,17532,660,72
+822,94,Facebook,2025-05-23,http://facebook.com/posts/822,Check out MuscleBlaze BCAA! #ad,10647,587,110
+823,94,Facebook,2025-05-16,http://facebook.com/posts/823,Check out HKVitals Probiotics! #ad,17983,1182,120
+824,94,Facebook,2025-07-06,http://facebook.com/posts/824,Check out HKVitals Multivitamins! #ad,15971,474,89
+825,94,Facebook,2025-05-21,http://facebook.com/posts/825,Check out MuscleBlaze Mass Gainer! #ad,12085,547,73
+826,94,Facebook,2025-05-07,http://facebook.com/posts/826,Check out HKVitals Omega 3! #ad,19039,1145,221
+827,94,Facebook,2025-07-18,http://facebook.com/posts/827,Check out Gritzo Chia Seeds! #ad,12762,537,57
+828,95,Twitter,2025-06-28,http://twitter.com/status/828,Check out MuscleBlaze Mass Gainer! #ad,63982,2747,327
+829,95,Twitter,2025-05-23,http://twitter.com/status/829,Check out MuscleBlaze Mass Gainer! #ad,38575,901,130
+830,95,Twitter,2025-03-13,http://twitter.com/status/830,Check out Gritzo Chia Seeds! #ad,41993,1502,290
+831,95,Twitter,2025-05-09,http://twitter.com/status/831,Check out Gritzo Oats! #ad,56152,1862,173
+832,95,Twitter,2025-04-17,http://twitter.com/status/832,Check out Gritzo Chia Seeds! #ad,59768,1422,269
+833,95,Twitter,2025-05-02,http://twitter.com/status/833,Check out HKVitals Omega 3! #ad,41651,2027,156
+834,95,Twitter,2025-06-23,http://twitter.com/status/834,Check out Gritzo Oats! #ad,50083,1501,240
+835,95,Twitter,2025-07-18,http://twitter.com/status/835,Check out HKVitals Multivitamins! #ad,41971,2591,454
+836,95,Twitter,2025-04-08,http://twitter.com/status/836,Check out MuscleBlaze Protein Powder! #ad,38684,925,178
+837,95,Twitter,2025-05-05,http://twitter.com/status/837,Check out Gritzo Oats! #ad,58059,2733,153
+838,95,Twitter,2025-05-03,http://twitter.com/status/838,Check out HKVitals Probiotics! #ad,44563,2892,526
+839,95,Twitter,2025-05-21,http://twitter.com/status/839,Check out HKVitals Omega 3! #ad,40578,2362,299
+840,96,Twitter,2025-03-13,http://twitter.com/status/840,Check out Gritzo Oats! #ad,107525,6447,784
+841,96,Twitter,2025-05-14,http://twitter.com/status/841,Check out MuscleBlaze BCAA! #ad,133344,8403,1398
+842,96,Twitter,2025-04-28,http://twitter.com/status/842,Check out MuscleBlaze BCAA! #ad,148398,5310,272
+843,96,Twitter,2025-06-09,http://twitter.com/status/843,Check out MuscleBlaze Mass Gainer! #ad,153929,5583,792
+844,96,Twitter,2025-03-21,http://twitter.com/status/844,Check out MuscleBlaze BCAA! #ad,125907,4214,816
+845,96,Twitter,2025-04-06,http://twitter.com/status/845,Check out HKVitals Multivitamins! #ad,146686,4477,694
+846,96,Twitter,2025-04-11,http://twitter.com/status/846,Check out HKVitals Omega 3! #ad,127385,3693,257
+847,96,Twitter,2025-05-21,http://twitter.com/status/847,Check out Gritzo Oats! #ad,174467,9777,1668
+848,96,Twitter,2025-05-17,http://twitter.com/status/848,Check out HKVitals Omega 3! #ad,120025,7201,1157
+849,96,Twitter,2025-05-01,http://twitter.com/status/849,Check out MuscleBlaze Protein Powder! #ad,139882,3738,687
+850,96,Twitter,2025-06-01,http://twitter.com/status/850,Check out Gritzo Chia Seeds! #ad,166221,9851,935
+851,97,YouTube,2025-04-16,http://youtube.com/watch?v=851,Check out MuscleBlaze BCAA! #ad,7221,222,19
+852,97,YouTube,2025-07-11,http://youtube.com/watch?v=852,Check out Gritzo Oats! #ad,8776,322,33
+853,97,YouTube,2025-05-18,http://youtube.com/watch?v=853,Check out Gritzo Peanut Butter! #ad,8202,332,34
+854,97,YouTube,2025-06-10,http://youtube.com/watch?v=854,Check out Gritzo Oats! #ad,9466,496,64
+855,97,YouTube,2025-06-30,http://youtube.com/watch?v=855,Check out HKVitals Omega 3! #ad,8099,368,61
+856,98,YouTube,2025-07-21,http://youtube.com/watch?v=856,Check out MuscleBlaze Mass Gainer! #ad,10405,449,86
+857,98,YouTube,2025-07-17,http://youtube.com/watch?v=857,Check out MuscleBlaze BCAA! #ad,11539,425,61
+858,98,YouTube,2025-05-20,http://youtube.com/watch?v=858,Check out HKVitals Multivitamins! #ad,7281,270,26
+859,98,YouTube,2025-06-05,http://youtube.com/watch?v=859,Check out HKVitals Probiotics! #ad,8381,437,39
+860,98,YouTube,2025-04-25,http://youtube.com/watch?v=860,Check out HKVitals Probiotics! #ad,10249,699,78
+861,98,YouTube,2025-03-06,http://youtube.com/watch?v=861,Check out MuscleBlaze Protein Powder! #ad,11072,587,112
+862,98,YouTube,2025-06-14,http://youtube.com/watch?v=862,Check out Gritzo Oats! #ad,8049,320,20
+863,98,YouTube,2025-07-19,http://youtube.com/watch?v=863,Check out HKVitals Probiotics! #ad,7133,417,53
+864,98,YouTube,2025-02-14,http://youtube.com/watch?v=864,Check out MuscleBlaze Mass Gainer! #ad,10431,252,47
+865,98,YouTube,2025-04-15,http://youtube.com/watch?v=865,Check out HKVitals Multivitamins! #ad,8264,282,40
+866,98,YouTube,2025-02-24,http://youtube.com/watch?v=866,Check out Gritzo Oats! #ad,6985,371,66
+867,98,YouTube,2025-04-02,http://youtube.com/watch?v=867,Check out HKVitals Omega 3! #ad,12517,588,53
+868,99,Twitter,2025-02-24,http://twitter.com/status/868,Check out Gritzo Chia Seeds! #ad,23418,1168,168
+869,99,Twitter,2025-06-02,http://twitter.com/status/869,Check out Gritzo Peanut Butter! #ad,29455,1530,147
+870,99,Twitter,2025-04-07,http://twitter.com/status/870,Check out HKVitals Probiotics! #ad,24291,594,57
+871,99,Twitter,2025-04-19,http://twitter.com/status/871,Check out HKVitals Multivitamins! #ad,25623,512,88
+872,99,Twitter,2025-07-13,http://twitter.com/status/872,Check out MuscleBlaze Mass Gainer! #ad,25330,1184,181
+873,99,Twitter,2025-05-05,http://twitter.com/status/873,Check out HKVitals Omega 3! #ad,20492,850,79
+874,99,Twitter,2025-03-15,http://twitter.com/status/874,Check out MuscleBlaze BCAA! #ad,26844,1089,146
+875,99,Twitter,2025-04-16,http://twitter.com/status/875,Check out MuscleBlaze Protein Powder! #ad,32792,1715,298
+876,99,Twitter,2025-03-13,http://twitter.com/status/876,Check out HKVitals Multivitamins! #ad,27691,885,145
+877,99,Twitter,2025-07-25,http://twitter.com/status/877,Check out Gritzo Chia Seeds! #ad,32264,1104,178
+878,99,Twitter,2025-07-05,http://twitter.com/status/878,Check out HKVitals Omega 3! #ad,23609,552,38
+879,99,Twitter,2025-02-20,http://twitter.com/status/879,Check out Gritzo Peanut Butter! #ad,31098,1045,149
+880,100,Instagram,2025-04-01,http://instagram.com/post/880,Check out MuscleBlaze Protein Powder! #ad,36759,1718,133
+881,100,Instagram,2025-02-18,http://instagram.com/post/881,Check out HKVitals Omega 3! #ad,39038,1636,83
+882,100,Instagram,2025-02-16,http://instagram.com/post/882,Check out MuscleBlaze Protein Powder! #ad,50176,1861,180
+883,100,Instagram,2025-07-03,http://instagram.com/post/883,Check out HKVitals Omega 3! #ad,49273,2935,292
+884,100,Instagram,2025-07-12,http://instagram.com/post/884,Check out MuscleBlaze Protein Powder! #ad,43314,1716,225
+885,100,Instagram,2025-03-05,http://instagram.com/post/885,Check out MuscleBlaze Mass Gainer! #ad,59959,3682,251
+886,100,Instagram,2025-06-27,http://instagram.com/post/886,Check out Gritzo Oats! #ad,46889,3223,280
+887,100,Instagram,2025-02-05,http://instagram.com/post/887,Check out MuscleBlaze Mass Gainer! #ad,57483,1419,212
+888,101,Instagram,2025-05-01,http://instagram.com/post/888,Check out HKVitals Probiotics! #ad,21581,1441,106
+889,101,Instagram,2025-06-20,http://instagram.com/post/889,Check out MuscleBlaze BCAA! #ad,21340,982,86
+890,101,Instagram,2025-06-02,http://instagram.com/post/890,Check out HKVitals Multivitamins! #ad,15488,350,52
+891,101,Instagram,2025-02-20,http://instagram.com/post/891,Check out MuscleBlaze BCAA! #ad,16236,336,56
+892,101,Instagram,2025-05-23,http://instagram.com/post/892,Check out MuscleBlaze Mass Gainer! #ad,19836,405,22
+893,101,Instagram,2025-06-30,http://instagram.com/post/893,Check out Gritzo Peanut Butter! #ad,18814,522,86
+894,101,Instagram,2025-03-18,http://instagram.com/post/894,Check out MuscleBlaze Mass Gainer! #ad,12759,649,123
+895,101,Instagram,2025-06-26,http://instagram.com/post/895,Check out Gritzo Oats! #ad,12439,649,100
+896,102,Facebook,2025-02-23,http://facebook.com/posts/896,Check out HKVitals Multivitamins! #ad,297652,14262,2092
+897,102,Facebook,2025-04-07,http://facebook.com/posts/897,Check out HKVitals Probiotics! #ad,272816,14858,1541
+898,102,Facebook,2025-02-24,http://facebook.com/posts/898,Check out HKVitals Multivitamins! #ad,331475,13880,1307
+899,102,Facebook,2025-06-13,http://facebook.com/posts/899,Check out HKVitals Multivitamins! #ad,347809,16409,1617
+900,102,Facebook,2025-04-30,http://facebook.com/posts/900,Check out HKVitals Probiotics! #ad,417591,19929,1202
+901,102,Facebook,2025-02-28,http://facebook.com/posts/901,Check out HKVitals Omega 3! #ad,398517,18762,2216
+902,103,Facebook,2025-06-21,http://facebook.com/posts/902,Check out MuscleBlaze Protein Powder! #ad,8090,309,44
+903,103,Facebook,2025-04-01,http://facebook.com/posts/903,Check out Gritzo Oats! #ad,8264,387,41
+904,103,Facebook,2025-05-11,http://facebook.com/posts/904,Check out Gritzo Peanut Butter! #ad,8751,242,22
+905,103,Facebook,2025-04-19,http://facebook.com/posts/905,Check out Gritzo Peanut Butter! #ad,5783,266,15
+906,103,Facebook,2025-07-10,http://facebook.com/posts/906,Check out MuscleBlaze Protein Powder! #ad,9239,278,34
+907,103,Facebook,2025-02-17,http://facebook.com/posts/907,Check out MuscleBlaze BCAA! #ad,8189,322,39
+908,103,Facebook,2025-05-30,http://facebook.com/posts/908,Check out Gritzo Chia Seeds! #ad,6442,246,34
+909,103,Facebook,2025-02-12,http://facebook.com/posts/909,Check out MuscleBlaze Protein Powder! #ad,8253,548,95
+910,103,Facebook,2025-04-30,http://facebook.com/posts/910,Check out Gritzo Oats! #ad,6918,395,72
+911,103,Facebook,2025-07-08,http://facebook.com/posts/911,Check out HKVitals Probiotics! #ad,5547,282,36
+912,103,Facebook,2025-06-21,http://facebook.com/posts/912,Check out MuscleBlaze Mass Gainer! #ad,5636,173,22
+913,104,YouTube,2025-06-19,http://youtube.com/watch?v=913,Check out MuscleBlaze BCAA! #ad,33228,985,146
+914,104,YouTube,2025-05-20,http://youtube.com/watch?v=914,Check out Gritzo Oats! #ad,36934,1769,286
+915,104,YouTube,2025-06-27,http://youtube.com/watch?v=915,Check out Gritzo Chia Seeds! #ad,32642,1401,209
+916,104,YouTube,2025-07-20,http://youtube.com/watch?v=916,Check out MuscleBlaze Protein Powder! #ad,41945,1992,250
+917,104,YouTube,2025-06-06,http://youtube.com/watch?v=917,Check out MuscleBlaze BCAA! #ad,46355,1953,200
+918,104,YouTube,2025-03-31,http://youtube.com/watch?v=918,Check out Gritzo Peanut Butter! #ad,43067,1749,253
+919,105,YouTube,2025-05-27,http://youtube.com/watch?v=919,Check out MuscleBlaze BCAA! #ad,18097,701,92
+920,105,YouTube,2025-06-23,http://youtube.com/watch?v=920,Check out HKVitals Omega 3! #ad,22494,953,104
+921,105,YouTube,2025-06-19,http://youtube.com/watch?v=921,Check out MuscleBlaze Mass Gainer! #ad,18627,854,169
+922,105,YouTube,2025-03-29,http://youtube.com/watch?v=922,Check out MuscleBlaze Mass Gainer! #ad,22734,698,67
+923,105,YouTube,2025-06-28,http://youtube.com/watch?v=923,Check out Gritzo Peanut Butter! #ad,22044,1004,136
+924,105,YouTube,2025-05-20,http://youtube.com/watch?v=924,Check out MuscleBlaze Protein Powder! #ad,12729,480,33
+925,105,YouTube,2025-04-10,http://youtube.com/watch?v=925,Check out Gritzo Oats! #ad,14793,895,57
+926,105,YouTube,2025-04-17,http://youtube.com/watch?v=926,Check out Gritzo Oats! #ad,20090,1128,190
+927,105,YouTube,2025-03-04,http://youtube.com/watch?v=927,Check out HKVitals Probiotics! #ad,19758,1204,77
+928,105,YouTube,2025-06-03,http://youtube.com/watch?v=928,Check out HKVitals Multivitamins! #ad,20054,978,60
+929,106,Instagram,2025-07-27,http://instagram.com/post/929,Check out HKVitals Omega 3! #ad,55231,2303,436
+930,106,Instagram,2025-02-22,http://instagram.com/post/930,Check out MuscleBlaze BCAA! #ad,49104,2460,127
+931,106,Instagram,2025-06-29,http://instagram.com/post/931,Check out Gritzo Peanut Butter! #ad,32947,1522,148
+932,106,Instagram,2025-05-19,http://instagram.com/post/932,Check out MuscleBlaze Mass Gainer! #ad,45045,1398,80
+933,106,Instagram,2025-06-20,http://instagram.com/post/933,Check out HKVitals Omega 3! #ad,51804,2526,160
+934,107,Instagram,2025-03-26,http://instagram.com/post/934,Check out HKVitals Multivitamins! #ad,142848,3446,467
+935,107,Instagram,2025-02-08,http://instagram.com/post/935,Check out Gritzo Peanut Butter! #ad,157186,6275,722
+936,107,Instagram,2025-06-14,http://instagram.com/post/936,Check out MuscleBlaze Protein Powder! #ad,181202,5418,592
+937,107,Instagram,2025-05-20,http://instagram.com/post/937,Check out MuscleBlaze BCAA! #ad,196058,11132,967
+938,107,Instagram,2025-02-12,http://instagram.com/post/938,Check out HKVitals Omega 3! #ad,163879,10849,688
+939,107,Instagram,2025-06-09,http://instagram.com/post/939,Check out HKVitals Omega 3! #ad,168483,4974,505
+940,107,Instagram,2025-06-05,http://instagram.com/post/940,Check out MuscleBlaze Mass Gainer! #ad,146925,5507,954
+941,107,Instagram,2025-07-04,http://instagram.com/post/941,Check out HKVitals Probiotics! #ad,144347,3210,554
+942,107,Instagram,2025-03-09,http://instagram.com/post/942,Check out Gritzo Peanut Butter! #ad,145466,8207,515
+943,107,Instagram,2025-06-22,http://instagram.com/post/943,Check out MuscleBlaze Protein Powder! #ad,232675,15434,2782
+944,107,Instagram,2025-07-07,http://instagram.com/post/944,Check out HKVitals Multivitamins! #ad,166063,9999,957
+945,108,Instagram,2025-02-03,http://instagram.com/post/945,Check out HKVitals Multivitamins! #ad,118310,3619,477
+946,108,Instagram,2025-06-24,http://instagram.com/post/946,Check out HKVitals Probiotics! #ad,102364,5783,411
+947,108,Instagram,2025-06-14,http://instagram.com/post/947,Check out Gritzo Oats! #ad,95761,6253,806
+948,108,Instagram,2025-03-20,http://instagram.com/post/948,Check out MuscleBlaze Protein Powder! #ad,90015,5352,763
+949,108,Instagram,2025-02-08,http://instagram.com/post/949,Check out HKVitals Probiotics! #ad,131041,3057,455
+950,108,Instagram,2025-06-07,http://instagram.com/post/950,Check out Gritzo Peanut Butter! #ad,126022,2640,475
+951,108,Instagram,2025-06-04,http://instagram.com/post/951,Check out HKVitals Multivitamins! #ad,133189,6050,946
+952,108,Instagram,2025-07-24,http://instagram.com/post/952,Check out HKVitals Omega 3! #ad,126176,5877,458
+953,108,Instagram,2025-05-06,http://instagram.com/post/953,Check out HKVitals Probiotics! #ad,129873,2736,238
+954,108,Instagram,2025-05-12,http://instagram.com/post/954,Check out HKVitals Omega 3! #ad,102793,5881,310
+955,108,Instagram,2025-06-11,http://instagram.com/post/955,Check out HKVitals Omega 3! #ad,111188,3536,695
+956,108,Instagram,2025-05-06,http://instagram.com/post/956,Check out HKVitals Multivitamins! #ad,111223,7110,1305
+957,109,Twitter,2025-05-17,http://twitter.com/status/957,Check out HKVitals Multivitamins! #ad,6741,437,64
+958,109,Twitter,2025-02-15,http://twitter.com/status/958,Check out Gritzo Peanut Butter! #ad,8627,464,83
+959,109,Twitter,2025-06-11,http://twitter.com/status/959,Check out MuscleBlaze Mass Gainer! #ad,7194,198,38
+960,109,Twitter,2025-07-25,http://twitter.com/status/960,Check out Gritzo Peanut Butter! #ad,8262,219,32
+961,109,Twitter,2025-05-22,http://twitter.com/status/961,Check out Gritzo Chia Seeds! #ad,10056,634,61
+962,110,Facebook,2025-04-23,http://facebook.com/posts/962,Check out MuscleBlaze BCAA! #ad,15275,1005,98
+963,110,Facebook,2025-05-17,http://facebook.com/posts/963,Check out Gritzo Chia Seeds! #ad,9348,335,60
+964,110,Facebook,2025-06-19,http://facebook.com/posts/964,Check out MuscleBlaze Mass Gainer! #ad,14890,606,67
+965,110,Facebook,2025-04-25,http://facebook.com/posts/965,Check out Gritzo Chia Seeds! #ad,15276,514,85
+966,110,Facebook,2025-02-19,http://facebook.com/posts/966,Check out MuscleBlaze Protein Powder! #ad,8678,601,85
+967,110,Facebook,2025-05-27,http://facebook.com/posts/967,Check out Gritzo Chia Seeds! #ad,10167,321,49
+968,110,Facebook,2025-04-09,http://facebook.com/posts/968,Check out MuscleBlaze BCAA! #ad,14160,378,66
+969,111,Facebook,2025-06-16,http://facebook.com/posts/969,Check out Gritzo Peanut Butter! #ad,4667,183,22
+970,111,Facebook,2025-03-02,http://facebook.com/posts/970,Check out MuscleBlaze Protein Powder! #ad,4142,241,12
+971,111,Facebook,2025-03-23,http://facebook.com/posts/971,Check out HKVitals Multivitamins! #ad,6596,457,74
+972,111,Facebook,2025-02-11,http://facebook.com/posts/972,Check out MuscleBlaze Mass Gainer! #ad,7027,312,30
+973,111,Facebook,2025-04-28,http://facebook.com/posts/973,Check out MuscleBlaze Mass Gainer! #ad,5430,119,19
+974,111,Facebook,2025-04-13,http://facebook.com/posts/974,Check out Gritzo Peanut Butter! #ad,5393,361,49
+975,111,Facebook,2025-05-13,http://facebook.com/posts/975,Check out Gritzo Chia Seeds! #ad,7057,418,53
+976,111,Facebook,2025-04-27,http://facebook.com/posts/976,Check out HKVitals Multivitamins! #ad,7064,228,29
+977,111,Facebook,2025-06-21,http://facebook.com/posts/977,Check out MuscleBlaze BCAA! #ad,5369,312,60
+978,111,Facebook,2025-03-07,http://facebook.com/posts/978,Check out HKVitals Omega 3! #ad,5406,190,33
+979,111,Facebook,2025-04-29,http://facebook.com/posts/979,Check out MuscleBlaze Mass Gainer! #ad,5048,332,50
+980,111,Facebook,2025-07-24,http://facebook.com/posts/980,Check out MuscleBlaze Mass Gainer! #ad,6898,293,46
+981,112,YouTube,2025-03-05,http://youtube.com/watch?v=981,Check out Gritzo Chia Seeds! #ad,4472,177,17
+982,112,YouTube,2025-02-03,http://youtube.com/watch?v=982,Check out MuscleBlaze Mass Gainer! #ad,4586,255,20
+983,112,YouTube,2025-04-27,http://youtube.com/watch?v=983,Check out MuscleBlaze Mass Gainer! #ad,3891,204,31
+984,112,YouTube,2025-03-02,http://youtube.com/watch?v=984,Check out Gritzo Chia Seeds! #ad,3368,86,10
+985,112,YouTube,2025-04-10,http://youtube.com/watch?v=985,Check out MuscleBlaze BCAA! #ad,4892,275,53
+986,112,YouTube,2025-05-28,http://youtube.com/watch?v=986,Check out MuscleBlaze Mass Gainer! #ad,4482,99,7
+987,113,Facebook,2025-05-19,http://facebook.com/posts/987,Check out Gritzo Oats! #ad,5572,151,24
+988,113,Facebook,2025-02-08,http://facebook.com/posts/988,Check out HKVitals Omega 3! #ad,6191,361,42
+989,113,Facebook,2025-05-31,http://facebook.com/posts/989,Check out MuscleBlaze Protein Powder! #ad,8661,589,29
+990,113,Facebook,2025-06-27,http://facebook.com/posts/990,Check out HKVitals Multivitamins! #ad,6816,427,56
+991,113,Facebook,2025-01-30,http://facebook.com/posts/991,Check out Gritzo Peanut Butter! #ad,5890,291,35
+992,113,Facebook,2025-04-19,http://facebook.com/posts/992,Check out HKVitals Multivitamins! #ad,7414,150,27
+993,113,Facebook,2025-03-24,http://facebook.com/posts/993,Check out Gritzo Chia Seeds! #ad,7231,442,25
+994,113,Facebook,2025-02-27,http://facebook.com/posts/994,Check out MuscleBlaze BCAA! #ad,6356,173,9
+995,113,Facebook,2025-05-21,http://facebook.com/posts/995,Check out Gritzo Peanut Butter! #ad,6281,153,10
+996,113,Facebook,2025-03-05,http://facebook.com/posts/996,Check out MuscleBlaze BCAA! #ad,6085,322,49
+997,114,Twitter,2025-04-28,http://twitter.com/status/997,Check out Gritzo Chia Seeds! #ad,80981,1764,291
+998,114,Twitter,2025-04-02,http://twitter.com/status/998,Check out HKVitals Omega 3! #ad,105383,6104,1077
+999,114,Twitter,2025-02-11,http://twitter.com/status/999,Check out HKVitals Omega 3! #ad,69013,3777,344
+1000,114,Twitter,2025-05-11,http://twitter.com/status/1000,Check out HKVitals Probiotics! #ad,73007,2223,130
+1001,114,Twitter,2025-05-20,http://twitter.com/status/1001,Check out Gritzo Chia Seeds! #ad,89932,2192,347
+1002,114,Twitter,2025-05-27,http://twitter.com/status/1002,Check out Gritzo Peanut Butter! #ad,84528,5273,469
+1003,114,Twitter,2025-05-21,http://twitter.com/status/1003,Check out Gritzo Peanut Butter! #ad,111049,5631,700
+1004,115,YouTube,2025-05-05,http://youtube.com/watch?v=1004,Check out MuscleBlaze BCAA! #ad,44713,1543,121
+1005,115,YouTube,2025-02-21,http://youtube.com/watch?v=1005,Check out MuscleBlaze Mass Gainer! #ad,57262,1482,262
+1006,115,YouTube,2025-07-03,http://youtube.com/watch?v=1006,Check out Gritzo Peanut Butter! #ad,50507,1853,248
+1007,115,YouTube,2025-06-02,http://youtube.com/watch?v=1007,Check out MuscleBlaze Protein Powder! #ad,57747,3147,277
+1008,115,YouTube,2025-02-11,http://youtube.com/watch?v=1008,Check out HKVitals Omega 3! #ad,53467,1935,98
+1009,115,YouTube,2025-06-11,http://youtube.com/watch?v=1009,Check out HKVitals Omega 3! #ad,49932,2419,469
+1010,115,YouTube,2025-07-10,http://youtube.com/watch?v=1010,Check out MuscleBlaze Protein Powder! #ad,47838,1765,266
+1011,115,YouTube,2025-07-26,http://youtube.com/watch?v=1011,Check out HKVitals Multivitamins! #ad,57907,2552,367
+1012,115,YouTube,2025-07-21,http://youtube.com/watch?v=1012,Check out Gritzo Peanut Butter! #ad,52054,3160,597
+1013,115,YouTube,2025-02-09,http://youtube.com/watch?v=1013,Check out Gritzo Peanut Butter! #ad,55329,2982,397
+1014,115,YouTube,2025-02-02,http://youtube.com/watch?v=1014,Check out MuscleBlaze BCAA! #ad,59180,3549,650
+1015,115,YouTube,2025-04-08,http://youtube.com/watch?v=1015,Check out MuscleBlaze Protein Powder! #ad,46239,996,196
+1016,116,Twitter,2025-05-20,http://twitter.com/status/1016,Check out Gritzo Peanut Butter! #ad,11417,295,49
+1017,116,Twitter,2025-03-30,http://twitter.com/status/1017,Check out Gritzo Peanut Butter! #ad,15823,531,33
+1018,116,Twitter,2025-07-18,http://twitter.com/status/1018,Check out MuscleBlaze Mass Gainer! #ad,13648,921,75
+1019,116,Twitter,2025-03-29,http://twitter.com/status/1019,Check out MuscleBlaze Protein Powder! #ad,12993,284,22
+1020,116,Twitter,2025-02-16,http://twitter.com/status/1020,Check out HKVitals Probiotics! #ad,10048,443,55
+1021,116,Twitter,2025-03-07,http://twitter.com/status/1021,Check out HKVitals Omega 3! #ad,16014,739,122
+1022,116,Twitter,2025-02-26,http://twitter.com/status/1022,Check out MuscleBlaze BCAA! #ad,15544,414,65
+1023,117,Facebook,2025-04-14,http://facebook.com/posts/1023,Check out Gritzo Chia Seeds! #ad,2796,99,5
+1024,117,Facebook,2025-07-13,http://facebook.com/posts/1024,Check out Gritzo Oats! #ad,3270,210,13
+1025,117,Facebook,2025-06-27,http://facebook.com/posts/1025,Check out Gritzo Chia Seeds! #ad,3225,157,15
+1026,117,Facebook,2025-07-21,http://facebook.com/posts/1026,Check out MuscleBlaze Mass Gainer! #ad,2981,102,13
+1027,117,Facebook,2025-06-28,http://facebook.com/posts/1027,Check out HKVitals Probiotics! #ad,2800,76,6
+1028,117,Facebook,2025-02-01,http://facebook.com/posts/1028,Check out Gritzo Chia Seeds! #ad,3664,111,11
+1029,117,Facebook,2025-04-01,http://facebook.com/posts/1029,Check out HKVitals Multivitamins! #ad,4600,276,37
+1030,117,Facebook,2025-03-03,http://facebook.com/posts/1030,Check out MuscleBlaze Mass Gainer! #ad,3880,143,16
+1031,117,Facebook,2025-02-23,http://facebook.com/posts/1031,Check out MuscleBlaze Mass Gainer! #ad,4513,101,10
+1032,117,Facebook,2025-02-15,http://facebook.com/posts/1032,Check out HKVitals Omega 3! #ad,2934,146,20
+1033,117,Facebook,2025-07-10,http://facebook.com/posts/1033,Check out Gritzo Chia Seeds! #ad,3515,132,13
+1034,117,Facebook,2025-03-09,http://facebook.com/posts/1034,Check out Gritzo Chia Seeds! #ad,4308,103,19
+1035,118,Twitter,2025-05-19,http://twitter.com/status/1035,Check out MuscleBlaze Protein Powder! #ad,41761,2755,331
+1036,118,Twitter,2025-04-28,http://twitter.com/status/1036,Check out HKVitals Probiotics! #ad,38207,2228,268
+1037,118,Twitter,2025-03-14,http://twitter.com/status/1037,Check out MuscleBlaze BCAA! #ad,30056,1147,88
+1038,118,Twitter,2025-07-26,http://twitter.com/status/1038,Check out Gritzo Peanut Butter! #ad,41253,2645,312
+1039,118,Twitter,2025-02-04,http://twitter.com/status/1039,Check out MuscleBlaze Mass Gainer! #ad,26994,1185,209
+1040,118,Twitter,2025-03-25,http://twitter.com/status/1040,Check out HKVitals Probiotics! #ad,36736,1667,184
+1041,118,Twitter,2025-06-17,http://twitter.com/status/1041,Check out MuscleBlaze Mass Gainer! #ad,36345,855,81
+1042,118,Twitter,2025-04-29,http://twitter.com/status/1042,Check out HKVitals Probiotics! #ad,33334,1701,224
+1043,118,Twitter,2025-05-03,http://twitter.com/status/1043,Check out HKVitals Multivitamins! #ad,31800,1930,267
+1044,118,Twitter,2025-06-30,http://twitter.com/status/1044,Check out HKVitals Probiotics! #ad,41222,1946,166
+1045,118,Twitter,2025-06-07,http://twitter.com/status/1045,Check out Gritzo Oats! #ad,40210,2235,392
+1046,118,Twitter,2025-02-20,http://twitter.com/status/1046,Check out Gritzo Chia Seeds! #ad,34378,1641,284
+1047,119,Instagram,2025-03-30,http://instagram.com/post/1047,Check out HKVitals Multivitamins! #ad,11206,608,84
+1048,119,Instagram,2025-07-07,http://instagram.com/post/1048,Check out HKVitals Omega 3! #ad,10546,559,35
+1049,119,Instagram,2025-07-07,http://instagram.com/post/1049,Check out MuscleBlaze BCAA! #ad,13143,680,34
+1050,119,Instagram,2025-02-27,http://instagram.com/post/1050,Check out Gritzo Oats! #ad,10284,355,50
+1051,119,Instagram,2025-04-26,http://instagram.com/post/1051,Check out MuscleBlaze Protein Powder! #ad,11735,420,56
+1052,119,Instagram,2025-07-25,http://instagram.com/post/1052,Check out Gritzo Peanut Butter! #ad,13240,884,139
+1053,119,Instagram,2025-07-26,http://instagram.com/post/1053,Check out HKVitals Multivitamins! #ad,11108,561,71
+1054,120,Instagram,2025-07-14,http://instagram.com/post/1054,Check out HKVitals Multivitamins! #ad,24676,1170,67
+1055,120,Instagram,2025-06-15,http://instagram.com/post/1055,Check out Gritzo Peanut Butter! #ad,20507,699,38
+1056,120,Instagram,2025-04-23,http://instagram.com/post/1056,Check out Gritzo Chia Seeds! #ad,25079,900,96
+1057,120,Instagram,2025-04-13,http://instagram.com/post/1057,Check out HKVitals Probiotics! #ad,22138,634,44
+1058,120,Instagram,2025-05-17,http://instagram.com/post/1058,Check out HKVitals Omega 3! #ad,32240,893,178
+1059,120,Instagram,2025-06-08,http://instagram.com/post/1059,Check out MuscleBlaze Protein Powder! #ad,18931,992,71
+1060,120,Instagram,2025-07-20,http://instagram.com/post/1060,Check out HKVitals Probiotics! #ad,25761,1790,112
+1061,121,Instagram,2025-07-15,http://instagram.com/post/1061,Check out HKVitals Probiotics! #ad,13423,554,42
+1062,121,Instagram,2025-05-08,http://instagram.com/post/1062,Check out HKVitals Probiotics! #ad,15057,590,49
+1063,121,Instagram,2025-04-22,http://instagram.com/post/1063,Check out Gritzo Oats! #ad,13222,824,70
+1064,121,Instagram,2025-05-07,http://instagram.com/post/1064,Check out HKVitals Omega 3! #ad,15865,774,42
+1065,121,Instagram,2025-02-05,http://instagram.com/post/1065,Check out Gritzo Peanut Butter! #ad,14184,363,44
+1066,121,Instagram,2025-06-12,http://instagram.com/post/1066,Check out MuscleBlaze Protein Powder! #ad,14376,665,118
+1067,121,Instagram,2025-06-24,http://instagram.com/post/1067,Check out HKVitals Omega 3! #ad,12760,589,83
+1068,121,Instagram,2025-03-18,http://instagram.com/post/1068,Check out HKVitals Probiotics! #ad,14463,983,60
+1069,121,Instagram,2025-06-01,http://instagram.com/post/1069,Check out Gritzo Chia Seeds! #ad,11210,253,25
+1070,121,Instagram,2025-06-29,http://instagram.com/post/1070,Check out MuscleBlaze Mass Gainer! #ad,12283,802,109
+1071,121,Instagram,2025-04-03,http://instagram.com/post/1071,Check out HKVitals Omega 3! #ad,16122,965,90
+1072,122,Twitter,2025-06-13,http://twitter.com/status/1072,Check out Gritzo Chia Seeds! #ad,17106,1013,90
+1073,122,Twitter,2025-05-31,http://twitter.com/status/1073,Check out HKVitals Probiotics! #ad,15536,350,69
+1074,122,Twitter,2025-07-05,http://twitter.com/status/1074,Check out Gritzo Chia Seeds! #ad,13887,614,42
+1075,122,Twitter,2025-02-13,http://twitter.com/status/1075,Check out HKVitals Omega 3! #ad,15111,514,91
+1076,122,Twitter,2025-02-01,http://twitter.com/status/1076,Check out Gritzo Oats! #ad,20592,1348,216
+1077,123,Facebook,2025-04-11,http://facebook.com/posts/1077,Check out MuscleBlaze Mass Gainer! #ad,5409,172,13
+1078,123,Facebook,2025-05-12,http://facebook.com/posts/1078,Check out MuscleBlaze Mass Gainer! #ad,5968,408,56
+1079,123,Facebook,2025-07-08,http://facebook.com/posts/1079,Check out MuscleBlaze Mass Gainer! #ad,5326,216,23
+1080,123,Facebook,2025-06-06,http://facebook.com/posts/1080,Check out HKVitals Probiotics! #ad,5006,152,24
+1081,123,Facebook,2025-04-06,http://facebook.com/posts/1081,Check out MuscleBlaze BCAA! #ad,3971,242,14
+1082,123,Facebook,2025-04-29,http://facebook.com/posts/1082,Check out HKVitals Omega 3! #ad,4073,233,37
+1083,123,Facebook,2025-05-13,http://facebook.com/posts/1083,Check out MuscleBlaze Mass Gainer! #ad,5134,202,18
+1084,123,Facebook,2025-05-12,http://facebook.com/posts/1084,Check out HKVitals Multivitamins! #ad,4038,241,25
+1085,123,Facebook,2025-03-31,http://facebook.com/posts/1085,Check out Gritzo Chia Seeds! #ad,5890,146,18
+1086,123,Facebook,2025-04-08,http://facebook.com/posts/1086,Check out HKVitals Probiotics! #ad,5785,363,36
+1087,123,Facebook,2025-03-22,http://facebook.com/posts/1087,Check out MuscleBlaze Mass Gainer! #ad,5053,199,33
+1088,123,Facebook,2025-06-24,http://facebook.com/posts/1088,Check out MuscleBlaze BCAA! #ad,5101,298,38
+1089,124,YouTube,2025-03-31,http://youtube.com/watch?v=1089,Check out Gritzo Oats! #ad,179691,11066,573
+1090,124,YouTube,2025-02-17,http://youtube.com/watch?v=1090,Check out Gritzo Oats! #ad,180931,6798,1079
+1091,124,YouTube,2025-03-19,http://youtube.com/watch?v=1091,Check out MuscleBlaze Protein Powder! #ad,116282,2860,545
+1092,124,YouTube,2025-06-06,http://youtube.com/watch?v=1092,Check out MuscleBlaze BCAA! #ad,176299,9767,664
+1093,124,YouTube,2025-07-14,http://youtube.com/watch?v=1093,Check out Gritzo Oats! #ad,150693,8769,1290
+1094,124,YouTube,2025-07-04,http://youtube.com/watch?v=1094,Check out MuscleBlaze Protein Powder! #ad,181923,5942,713
+1095,124,YouTube,2025-02-13,http://youtube.com/watch?v=1095,Check out Gritzo Peanut Butter! #ad,204102,6902,787
+1096,125,Instagram,2025-03-20,http://instagram.com/post/1096,Check out MuscleBlaze Protein Powder! #ad,22167,512,55
+1097,125,Instagram,2025-02-10,http://instagram.com/post/1097,Check out HKVitals Omega 3! #ad,20641,484,95
+1098,125,Instagram,2025-03-09,http://instagram.com/post/1098,Check out Gritzo Peanut Butter! #ad,20649,921,65
+1099,125,Instagram,2025-06-27,http://instagram.com/post/1099,Check out HKVitals Multivitamins! #ad,27335,691,80
+1100,125,Instagram,2025-03-20,http://instagram.com/post/1100,Check out MuscleBlaze Protein Powder! #ad,19029,924,80
+1101,125,Instagram,2025-04-26,http://instagram.com/post/1101,Check out MuscleBlaze Mass Gainer! #ad,20195,1050,199
+1102,125,Instagram,2025-06-07,http://instagram.com/post/1102,Check out HKVitals Omega 3! #ad,20237,738,80
+1103,125,Instagram,2025-01-30,http://instagram.com/post/1103,Check out Gritzo Chia Seeds! #ad,32339,1440,166
+1104,125,Instagram,2025-07-12,http://instagram.com/post/1104,Check out Gritzo Oats! #ad,26202,528,101
+1105,125,Instagram,2025-07-07,http://instagram.com/post/1105,Check out HKVitals Multivitamins! #ad,26618,1776,184
+1106,126,Facebook,2025-04-17,http://facebook.com/posts/1106,Check out MuscleBlaze BCAA! #ad,32921,1723,180
+1107,126,Facebook,2025-07-14,http://facebook.com/posts/1107,Check out HKVitals Multivitamins! #ad,30550,1772,165
+1108,126,Facebook,2025-03-10,http://facebook.com/posts/1108,Check out MuscleBlaze BCAA! #ad,18349,719,56
+1109,126,Facebook,2025-06-13,http://facebook.com/posts/1109,Check out HKVitals Multivitamins! #ad,27346,1038,65
+1110,126,Facebook,2025-06-01,http://facebook.com/posts/1110,Check out HKVitals Probiotics! #ad,20634,449,24
+1111,126,Facebook,2025-05-24,http://facebook.com/posts/1111,Check out MuscleBlaze Mass Gainer! #ad,23666,1411,206
+1112,126,Facebook,2025-05-06,http://facebook.com/posts/1112,Check out Gritzo Peanut Butter! #ad,32458,675,68
+1113,126,Facebook,2025-04-05,http://facebook.com/posts/1113,Check out Gritzo Oats! #ad,23921,731,108
+1114,126,Facebook,2025-05-11,http://facebook.com/posts/1114,Check out HKVitals Probiotics! #ad,30991,1451,233
+1115,127,YouTube,2025-07-28,http://youtube.com/watch?v=1115,Check out MuscleBlaze Protein Powder! #ad,35830,1592,84
+1116,127,YouTube,2025-07-24,http://youtube.com/watch?v=1116,Check out Gritzo Oats! #ad,26547,1392,72
+1117,127,YouTube,2025-06-01,http://youtube.com/watch?v=1117,Check out MuscleBlaze Mass Gainer! #ad,37436,930,131
+1118,127,YouTube,2025-07-10,http://youtube.com/watch?v=1118,Check out Gritzo Oats! #ad,37381,946,117
+1119,127,YouTube,2025-07-03,http://youtube.com/watch?v=1119,Check out Gritzo Oats! #ad,23165,698,70
+1120,127,YouTube,2025-07-10,http://youtube.com/watch?v=1120,Check out Gritzo Chia Seeds! #ad,29549,769,117
+1121,127,YouTube,2025-05-15,http://youtube.com/watch?v=1121,Check out MuscleBlaze Mass Gainer! #ad,37732,2250,370
+1122,127,YouTube,2025-05-24,http://youtube.com/watch?v=1122,Check out MuscleBlaze Mass Gainer! #ad,23167,780,127
+1123,128,Instagram,2025-06-13,http://instagram.com/post/1123,Check out HKVitals Probiotics! #ad,2683,86,11
+1124,128,Instagram,2025-02-24,http://instagram.com/post/1124,Check out MuscleBlaze BCAA! #ad,3585,211,11
+1125,128,Instagram,2025-05-04,http://instagram.com/post/1125,Check out MuscleBlaze Protein Powder! #ad,2365,156,24
+1126,128,Instagram,2025-05-24,http://instagram.com/post/1126,Check out HKVitals Omega 3! #ad,3748,223,27
+1127,128,Instagram,2025-02-23,http://instagram.com/post/1127,Check out MuscleBlaze Protein Powder! #ad,3640,168,18
+1128,128,Instagram,2025-03-04,http://instagram.com/post/1128,Check out Gritzo Chia Seeds! #ad,2427,70,8
+1129,128,Instagram,2025-02-15,http://instagram.com/post/1129,Check out Gritzo Peanut Butter! #ad,3052,61,5
+1130,129,Facebook,2025-05-12,http://facebook.com/posts/1130,Check out MuscleBlaze BCAA! #ad,34999,2031,265
+1131,129,Facebook,2025-03-13,http://facebook.com/posts/1131,Check out HKVitals Probiotics! #ad,41809,1414,111
+1132,129,Facebook,2025-07-03,http://facebook.com/posts/1132,Check out MuscleBlaze BCAA! #ad,46032,3018,376
+1133,129,Facebook,2025-03-01,http://facebook.com/posts/1133,Check out Gritzo Oats! #ad,27949,1067,86
+1134,129,Facebook,2025-03-19,http://facebook.com/posts/1134,Check out HKVitals Probiotics! #ad,45147,2614,147
+1135,129,Facebook,2025-06-22,http://facebook.com/posts/1135,Check out MuscleBlaze BCAA! #ad,30739,1822,223
+1136,130,YouTube,2025-02-12,http://youtube.com/watch?v=1136,Check out MuscleBlaze BCAA! #ad,5975,292,32
+1137,130,YouTube,2025-06-23,http://youtube.com/watch?v=1137,Check out Gritzo Peanut Butter! #ad,5179,132,11
+1138,130,YouTube,2025-03-16,http://youtube.com/watch?v=1138,Check out Gritzo Peanut Butter! #ad,7551,292,24
+1139,130,YouTube,2025-05-01,http://youtube.com/watch?v=1139,Check out Gritzo Peanut Butter! #ad,4527,189,15
+1140,130,YouTube,2025-05-27,http://youtube.com/watch?v=1140,Check out HKVitals Multivitamins! #ad,5762,154,24
+1141,130,YouTube,2025-06-01,http://youtube.com/watch?v=1141,Check out HKVitals Omega 3! #ad,5075,133,20
+1142,131,Facebook,2025-03-25,http://facebook.com/posts/1142,Check out MuscleBlaze Protein Powder! #ad,290824,12484,944
+1143,131,Facebook,2025-04-06,http://facebook.com/posts/1143,Check out MuscleBlaze Mass Gainer! #ad,255087,15171,2210
+1144,131,Facebook,2025-05-28,http://facebook.com/posts/1144,Check out MuscleBlaze BCAA! #ad,307897,19320,1216
+1145,131,Facebook,2025-07-15,http://facebook.com/posts/1145,Check out Gritzo Peanut Butter! #ad,292344,9010,1090
+1146,131,Facebook,2025-04-29,http://facebook.com/posts/1146,Check out HKVitals Multivitamins! #ad,273297,15525,1350
+1147,132,Facebook,2025-04-23,http://facebook.com/posts/1147,Check out Gritzo Oats! #ad,171880,8523,616
+1148,132,Facebook,2025-05-21,http://facebook.com/posts/1148,Check out MuscleBlaze Mass Gainer! #ad,179258,3944,475
+1149,132,Facebook,2025-06-27,http://facebook.com/posts/1149,Check out Gritzo Oats! #ad,132959,5280,905
+1150,132,Facebook,2025-06-13,http://facebook.com/posts/1150,Check out MuscleBlaze Mass Gainer! #ad,138770,3351,546
+1151,132,Facebook,2025-06-13,http://facebook.com/posts/1151,Check out Gritzo Peanut Butter! #ad,176732,4707,444
+1152,132,Facebook,2025-06-04,http://facebook.com/posts/1152,Check out MuscleBlaze Protein Powder! #ad,137475,4844,753
+1153,132,Facebook,2025-07-15,http://facebook.com/posts/1153,Check out Gritzo Chia Seeds! #ad,146149,10058,1202
+1154,132,Facebook,2025-02-25,http://facebook.com/posts/1154,Check out Gritzo Peanut Butter! #ad,112857,7175,1033
+1155,132,Facebook,2025-06-15,http://facebook.com/posts/1155,Check out Gritzo Oats! #ad,169255,3983,732
+1156,132,Facebook,2025-04-04,http://facebook.com/posts/1156,Check out Gritzo Oats! #ad,122179,7042,1089
+1157,133,Facebook,2025-07-01,http://facebook.com/posts/1157,Check out Gritzo Oats! #ad,23978,882,167
+1158,133,Facebook,2025-05-09,http://facebook.com/posts/1158,Check out Gritzo Peanut Butter! #ad,27567,704,73
+1159,133,Facebook,2025-05-29,http://facebook.com/posts/1159,Check out MuscleBlaze Mass Gainer! #ad,20569,1077,167
+1160,133,Facebook,2025-05-18,http://facebook.com/posts/1160,Check out Gritzo Oats! #ad,17510,643,84
+1161,133,Facebook,2025-06-04,http://facebook.com/posts/1161,Check out HKVitals Probiotics! #ad,28254,1384,268
+1162,133,Facebook,2025-03-11,http://facebook.com/posts/1162,Check out Gritzo Oats! #ad,19953,1294,162
+1163,133,Facebook,2025-04-21,http://facebook.com/posts/1163,Check out HKVitals Multivitamins! #ad,16503,614,75
+1164,133,Facebook,2025-05-11,http://facebook.com/posts/1164,Check out MuscleBlaze Mass Gainer! #ad,25177,1357,176
+1165,134,Twitter,2025-04-27,http://twitter.com/status/1165,Check out Gritzo Peanut Butter! #ad,40437,2720,465
+1166,134,Twitter,2025-07-20,http://twitter.com/status/1166,Check out MuscleBlaze Protein Powder! #ad,42329,1815,112
+1167,134,Twitter,2025-07-22,http://twitter.com/status/1167,Check out MuscleBlaze Mass Gainer! #ad,43693,1041,77
+1168,134,Twitter,2025-02-20,http://twitter.com/status/1168,Check out Gritzo Oats! #ad,34195,2179,279
+1169,134,Twitter,2025-05-31,http://twitter.com/status/1169,Check out MuscleBlaze Mass Gainer! #ad,32554,1761,334
+1170,134,Twitter,2025-05-01,http://twitter.com/status/1170,Check out HKVitals Omega 3! #ad,33116,1729,162
+1171,134,Twitter,2025-02-10,http://twitter.com/status/1171,Check out MuscleBlaze Protein Powder! #ad,41158,1892,189
+1172,134,Twitter,2025-05-21,http://twitter.com/status/1172,Check out HKVitals Probiotics! #ad,37274,1353,188
+1173,134,Twitter,2025-06-13,http://twitter.com/status/1173,Check out Gritzo Chia Seeds! #ad,33145,1166,81
+1174,135,Facebook,2025-03-03,http://facebook.com/posts/1174,Check out HKVitals Multivitamins! #ad,13988,958,158
+1175,135,Facebook,2025-02-07,http://facebook.com/posts/1175,Check out MuscleBlaze Mass Gainer! #ad,12295,833,118
+1176,135,Facebook,2025-03-01,http://facebook.com/posts/1176,Check out Gritzo Chia Seeds! #ad,12302,844,148
+1177,135,Facebook,2025-06-13,http://facebook.com/posts/1177,Check out Gritzo Oats! #ad,11251,290,57
+1178,135,Facebook,2025-05-21,http://facebook.com/posts/1178,Check out MuscleBlaze Mass Gainer! #ad,12091,353,47
+1179,135,Facebook,2025-02-05,http://facebook.com/posts/1179,Check out Gritzo Peanut Butter! #ad,18172,497,58
+1180,135,Facebook,2025-03-02,http://facebook.com/posts/1180,Check out Gritzo Peanut Butter! #ad,10914,231,43
+1181,135,Facebook,2025-06-27,http://facebook.com/posts/1181,Check out MuscleBlaze Mass Gainer! #ad,17746,493,96
+1182,135,Facebook,2025-05-15,http://facebook.com/posts/1182,Check out Gritzo Peanut Butter! #ad,15369,534,98
+1183,136,YouTube,2025-07-03,http://youtube.com/watch?v=1183,Check out Gritzo Chia Seeds! #ad,5163,217,33
+1184,136,YouTube,2025-06-20,http://youtube.com/watch?v=1184,Check out HKVitals Multivitamins! #ad,3252,154,14
+1185,136,YouTube,2025-04-17,http://youtube.com/watch?v=1185,Check out Gritzo Oats! #ad,4015,98,5
+1186,136,YouTube,2025-06-03,http://youtube.com/watch?v=1186,Check out MuscleBlaze BCAA! #ad,4215,248,40
+1187,136,YouTube,2025-03-08,http://youtube.com/watch?v=1187,Check out MuscleBlaze Protein Powder! #ad,4245,179,26
+1188,136,YouTube,2025-02-15,http://youtube.com/watch?v=1188,Check out Gritzo Peanut Butter! #ad,3389,121,17
+1189,136,YouTube,2025-02-09,http://youtube.com/watch?v=1189,Check out Gritzo Peanut Butter! #ad,3894,217,24
+1190,137,YouTube,2025-04-12,http://youtube.com/watch?v=1190,Check out MuscleBlaze Mass Gainer! #ad,9232,326,38
+1191,137,YouTube,2025-05-18,http://youtube.com/watch?v=1191,Check out MuscleBlaze Protein Powder! #ad,11571,488,97
+1192,137,YouTube,2025-07-04,http://youtube.com/watch?v=1192,Check out HKVitals Omega 3! #ad,8126,458,84
+1193,137,YouTube,2025-06-20,http://youtube.com/watch?v=1193,Check out HKVitals Multivitamins! #ad,12229,610,43
+1194,137,YouTube,2025-03-29,http://youtube.com/watch?v=1194,Check out HKVitals Probiotics! #ad,13152,306,59
+1195,137,YouTube,2025-06-25,http://youtube.com/watch?v=1195,Check out HKVitals Multivitamins! #ad,7166,372,33
+1196,137,YouTube,2025-03-04,http://youtube.com/watch?v=1196,Check out Gritzo Peanut Butter! #ad,11464,662,46
+1197,137,YouTube,2025-03-06,http://youtube.com/watch?v=1197,Check out HKVitals Omega 3! #ad,10509,232,40
+1198,137,YouTube,2025-07-10,http://youtube.com/watch?v=1198,Check out Gritzo Peanut Butter! #ad,10143,578,48
+1199,137,YouTube,2025-07-02,http://youtube.com/watch?v=1199,Check out MuscleBlaze Protein Powder! #ad,8730,591,103
+1200,137,YouTube,2025-05-01,http://youtube.com/watch?v=1200,Check out MuscleBlaze BCAA! #ad,11193,384,29
+1201,138,YouTube,2025-02-04,http://youtube.com/watch?v=1201,Check out MuscleBlaze Mass Gainer! #ad,115510,7916,1106
+1202,138,YouTube,2025-04-09,http://youtube.com/watch?v=1202,Check out Gritzo Peanut Butter! #ad,120557,7645,1102
+1203,138,YouTube,2025-05-02,http://youtube.com/watch?v=1203,Check out Gritzo Oats! #ad,107169,6070,319
+1204,138,YouTube,2025-03-21,http://youtube.com/watch?v=1204,Check out MuscleBlaze BCAA! #ad,85267,3068,557
+1205,138,YouTube,2025-02-24,http://youtube.com/watch?v=1205,Check out HKVitals Multivitamins! #ad,84876,3230,469
+1206,138,YouTube,2025-04-08,http://youtube.com/watch?v=1206,Check out MuscleBlaze Mass Gainer! #ad,101494,5272,324
+1207,138,YouTube,2025-03-08,http://youtube.com/watch?v=1207,Check out Gritzo Oats! #ad,134415,6712,503
+1208,138,YouTube,2025-04-02,http://youtube.com/watch?v=1208,Check out HKVitals Probiotics! #ad,136864,4594,710
+1209,139,Twitter,2025-02-17,http://twitter.com/status/1209,Check out Gritzo Chia Seeds! #ad,27570,749,52
+1210,139,Twitter,2025-03-25,http://twitter.com/status/1210,Check out HKVitals Omega 3! #ad,28666,1893,140
+1211,139,Twitter,2025-03-12,http://twitter.com/status/1211,Check out MuscleBlaze BCAA! #ad,25200,741,136
+1212,139,Twitter,2025-05-28,http://twitter.com/status/1212,Check out Gritzo Chia Seeds! #ad,36549,2033,315
+1213,139,Twitter,2025-07-04,http://twitter.com/status/1213,Check out MuscleBlaze Mass Gainer! #ad,29547,703,121
+1214,139,Twitter,2025-07-27,http://twitter.com/status/1214,Check out MuscleBlaze Mass Gainer! #ad,27508,1500,106
+1215,139,Twitter,2025-04-25,http://twitter.com/status/1215,Check out Gritzo Chia Seeds! #ad,35051,1300,203
+1216,139,Twitter,2025-02-04,http://twitter.com/status/1216,Check out Gritzo Oats! #ad,25223,1585,113
+1217,139,Twitter,2025-03-14,http://twitter.com/status/1217,Check out HKVitals Multivitamins! #ad,24996,1726,196
+1218,139,Twitter,2025-06-26,http://twitter.com/status/1218,Check out MuscleBlaze Protein Powder! #ad,21527,951,109
+1219,140,Facebook,2025-02-19,http://facebook.com/posts/1219,Check out MuscleBlaze BCAA! #ad,4428,101,6
+1220,140,Facebook,2025-03-19,http://facebook.com/posts/1220,Check out MuscleBlaze Protein Powder! #ad,3870,79,5
+1221,140,Facebook,2025-02-22,http://facebook.com/posts/1221,Check out Gritzo Oats! #ad,4623,138,20
+1222,140,Facebook,2025-02-04,http://facebook.com/posts/1222,Check out MuscleBlaze Protein Powder! #ad,5304,355,68
+1223,140,Facebook,2025-04-07,http://facebook.com/posts/1223,Check out HKVitals Multivitamins! #ad,5329,314,44
+1224,140,Facebook,2025-05-07,http://facebook.com/posts/1224,Check out Gritzo Oats! #ad,3336,163,8
+1225,140,Facebook,2025-03-12,http://facebook.com/posts/1225,Check out Gritzo Oats! #ad,5616,160,26
+1226,140,Facebook,2025-01-30,http://facebook.com/posts/1226,Check out Gritzo Oats! #ad,5511,363,64
+1227,141,Instagram,2025-04-10,http://instagram.com/post/1227,Check out Gritzo Chia Seeds! #ad,23427,1257,83
+1228,141,Instagram,2025-07-10,http://instagram.com/post/1228,Check out HKVitals Omega 3! #ad,27568,1260,140
+1229,141,Instagram,2025-06-26,http://instagram.com/post/1229,Check out HKVitals Multivitamins! #ad,28293,1301,161
+1230,141,Instagram,2025-04-09,http://instagram.com/post/1230,Check out Gritzo Peanut Butter! #ad,29874,658,65
+1231,141,Instagram,2025-02-21,http://instagram.com/post/1231,Check out HKVitals Omega 3! #ad,28137,1598,244
+1232,141,Instagram,2025-07-11,http://instagram.com/post/1232,Check out HKVitals Multivitamins! #ad,29818,1029,183
+1233,141,Instagram,2025-03-07,http://instagram.com/post/1233,Check out MuscleBlaze Mass Gainer! #ad,36493,1400,72
+1234,141,Instagram,2025-06-09,http://instagram.com/post/1234,Check out HKVitals Probiotics! #ad,22041,923,137
+1235,141,Instagram,2025-02-15,http://instagram.com/post/1235,Check out MuscleBlaze Protein Powder! #ad,27061,1481,291
+1236,141,Instagram,2025-06-22,http://instagram.com/post/1236,Check out MuscleBlaze Protein Powder! #ad,26522,794,63
+1237,141,Instagram,2025-07-12,http://instagram.com/post/1237,Check out HKVitals Multivitamins! #ad,24254,1000,124
+1238,141,Instagram,2025-06-27,http://instagram.com/post/1238,Check out Gritzo Chia Seeds! #ad,30506,1763,299
+1239,142,Instagram,2025-04-08,http://instagram.com/post/1239,Check out HKVitals Probiotics! #ad,220766,8879,1089
+1240,142,Instagram,2025-03-24,http://instagram.com/post/1240,Check out MuscleBlaze Mass Gainer! #ad,159004,5173,644
+1241,142,Instagram,2025-05-31,http://instagram.com/post/1241,Check out MuscleBlaze Protein Powder! #ad,157953,3576,215
+1242,142,Instagram,2025-06-10,http://instagram.com/post/1242,Check out MuscleBlaze Protein Powder! #ad,193257,10428,760
+1243,142,Instagram,2025-05-30,http://instagram.com/post/1243,Check out Gritzo Oats! #ad,240351,12751,1632
+1244,142,Instagram,2025-05-05,http://instagram.com/post/1244,Check out HKVitals Multivitamins! #ad,182147,8177,1028
+1245,142,Instagram,2025-05-14,http://instagram.com/post/1245,Check out HKVitals Probiotics! #ad,213713,14453,791
+1246,142,Instagram,2025-04-23,http://instagram.com/post/1246,Check out MuscleBlaze Mass Gainer! #ad,201675,12633,1470
+1247,142,Instagram,2025-02-05,http://instagram.com/post/1247,Check out MuscleBlaze Protein Powder! #ad,214966,13546,1293
+1248,142,Instagram,2025-06-15,http://instagram.com/post/1248,Check out MuscleBlaze Mass Gainer! #ad,199251,7097,769
+1249,142,Instagram,2025-06-26,http://instagram.com/post/1249,Check out MuscleBlaze BCAA! #ad,229730,12176,1860
+1250,143,Instagram,2025-05-02,http://instagram.com/post/1250,Check out Gritzo Oats! #ad,4839,191,23
+1251,143,Instagram,2025-04-12,http://instagram.com/post/1251,Check out Gritzo Chia Seeds! #ad,4394,302,29
+1252,143,Instagram,2025-02-04,http://instagram.com/post/1252,Check out Gritzo Oats! #ad,3744,143,24
+1253,143,Instagram,2025-05-23,http://instagram.com/post/1253,Check out MuscleBlaze BCAA! #ad,4360,108,10
+1254,143,Instagram,2025-04-09,http://instagram.com/post/1254,Check out HKVitals Omega 3! #ad,3537,113,9
+1255,143,Instagram,2025-03-31,http://instagram.com/post/1255,Check out Gritzo Oats! #ad,6006,139,13
+1256,143,Instagram,2025-04-05,http://instagram.com/post/1256,Check out MuscleBlaze Protein Powder! #ad,4931,107,15
+1257,143,Instagram,2025-04-21,http://instagram.com/post/1257,Check out Gritzo Chia Seeds! #ad,5980,199,30
+1258,143,Instagram,2025-05-23,http://instagram.com/post/1258,Check out MuscleBlaze Mass Gainer! #ad,4466,176,23
+1259,143,Instagram,2025-07-05,http://instagram.com/post/1259,Check out HKVitals Multivitamins! #ad,5371,162,20
+1260,143,Instagram,2025-07-06,http://instagram.com/post/1260,Check out Gritzo Peanut Butter! #ad,3855,134,26
+1261,143,Instagram,2025-03-09,http://instagram.com/post/1261,Check out HKVitals Probiotics! #ad,5824,345,60
+1262,144,Instagram,2025-03-26,http://instagram.com/post/1262,Check out HKVitals Multivitamins! #ad,11921,580,99
+1263,144,Instagram,2025-05-30,http://instagram.com/post/1263,Check out Gritzo Oats! #ad,15344,750,104
+1264,144,Instagram,2025-03-23,http://instagram.com/post/1264,Check out MuscleBlaze BCAA! #ad,16024,701,57
+1265,144,Instagram,2025-07-03,http://instagram.com/post/1265,Check out MuscleBlaze BCAA! #ad,16208,733,69
+1266,144,Instagram,2025-06-07,http://instagram.com/post/1266,Check out Gritzo Peanut Butter! #ad,11129,446,64
+1267,144,Instagram,2025-04-27,http://instagram.com/post/1267,Check out Gritzo Chia Seeds! #ad,10971,229,35
+1268,144,Instagram,2025-07-16,http://instagram.com/post/1268,Check out MuscleBlaze BCAA! #ad,13565,719,124
+1269,144,Instagram,2025-04-30,http://instagram.com/post/1269,Check out HKVitals Probiotics! #ad,13838,701,115
+1270,145,Instagram,2025-05-19,http://instagram.com/post/1270,Check out Gritzo Chia Seeds! #ad,8211,246,29
+1271,145,Instagram,2025-03-17,http://instagram.com/post/1271,Check out MuscleBlaze BCAA! #ad,12398,434,50
+1272,145,Instagram,2025-04-01,http://instagram.com/post/1272,Check out MuscleBlaze BCAA! #ad,9173,372,64
+1273,145,Instagram,2025-06-04,http://instagram.com/post/1273,Check out MuscleBlaze Mass Gainer! #ad,12408,394,33
+1274,145,Instagram,2025-02-27,http://instagram.com/post/1274,Check out MuscleBlaze Protein Powder! #ad,9454,580,69
+1275,145,Instagram,2025-05-18,http://instagram.com/post/1275,Check out HKVitals Omega 3! #ad,12141,265,19
+1276,145,Instagram,2025-02-25,http://instagram.com/post/1276,Check out MuscleBlaze Mass Gainer! #ad,13097,443,58
+1277,145,Instagram,2025-06-03,http://instagram.com/post/1277,Check out MuscleBlaze BCAA! #ad,11063,232,41
+1278,145,Instagram,2025-02-14,http://instagram.com/post/1278,Check out HKVitals Probiotics! #ad,9805,227,43
+1279,145,Instagram,2025-07-22,http://instagram.com/post/1279,Check out HKVitals Probiotics! #ad,12211,299,57
+1280,145,Instagram,2025-06-19,http://instagram.com/post/1280,Check out MuscleBlaze Protein Powder! #ad,8559,485,92
+1281,146,Instagram,2025-05-06,http://instagram.com/post/1281,Check out MuscleBlaze Protein Powder! #ad,17938,1052,102
+1282,146,Instagram,2025-07-10,http://instagram.com/post/1282,Check out Gritzo Chia Seeds! #ad,15807,907,77
+1283,146,Instagram,2025-04-21,http://instagram.com/post/1283,Check out MuscleBlaze Protein Powder! #ad,12932,397,36
+1284,146,Instagram,2025-04-18,http://instagram.com/post/1284,Check out HKVitals Probiotics! #ad,12415,579,89
+1285,146,Instagram,2025-02-20,http://instagram.com/post/1285,Check out HKVitals Probiotics! #ad,16150,874,169
+1286,146,Instagram,2025-07-19,http://instagram.com/post/1286,Check out MuscleBlaze Mass Gainer! #ad,16673,640,61
+1287,146,Instagram,2025-06-03,http://instagram.com/post/1287,Check out Gritzo Oats! #ad,20392,1083,206
+1288,146,Instagram,2025-06-12,http://instagram.com/post/1288,Check out Gritzo Oats! #ad,14416,565,82
+1289,146,Instagram,2025-06-14,http://instagram.com/post/1289,Check out HKVitals Probiotics! #ad,13086,828,147
+1290,147,YouTube,2025-01-31,http://youtube.com/watch?v=1290,Check out HKVitals Omega 3! #ad,11197,748,122
+1291,147,YouTube,2025-03-28,http://youtube.com/watch?v=1291,Check out MuscleBlaze Protein Powder! #ad,15890,819,148
+1292,147,YouTube,2025-06-27,http://youtube.com/watch?v=1292,Check out Gritzo Peanut Butter! #ad,14924,502,31
+1293,147,YouTube,2025-06-29,http://youtube.com/watch?v=1293,Check out HKVitals Omega 3! #ad,14524,963,96
+1294,147,YouTube,2025-04-21,http://youtube.com/watch?v=1294,Check out MuscleBlaze Protein Powder! #ad,14231,644,66
+1295,147,YouTube,2025-05-26,http://youtube.com/watch?v=1295,Check out Gritzo Chia Seeds! #ad,14531,619,33
+1296,147,YouTube,2025-02-08,http://youtube.com/watch?v=1296,Check out Gritzo Chia Seeds! #ad,10303,434,63
+1297,147,YouTube,2025-01-30,http://youtube.com/watch?v=1297,Check out HKVitals Multivitamins! #ad,13695,488,30
+1298,147,YouTube,2025-03-01,http://youtube.com/watch?v=1298,Check out MuscleBlaze BCAA! #ad,14346,837,123
+1299,147,YouTube,2025-02-23,http://youtube.com/watch?v=1299,Check out Gritzo Chia Seeds! #ad,12032,805,94
+1300,147,YouTube,2025-07-18,http://youtube.com/watch?v=1300,Check out Gritzo Oats! #ad,10890,592,103
+1301,148,YouTube,2025-03-09,http://youtube.com/watch?v=1301,Check out MuscleBlaze Mass Gainer! #ad,60719,2409,256
+1302,148,YouTube,2025-07-10,http://youtube.com/watch?v=1302,Check out Gritzo Oats! #ad,46991,993,132
+1303,148,YouTube,2025-05-28,http://youtube.com/watch?v=1303,Check out Gritzo Oats! #ad,82060,5638,449
+1304,148,YouTube,2025-06-14,http://youtube.com/watch?v=1304,Check out MuscleBlaze Protein Powder! #ad,62042,2571,228
+1305,148,YouTube,2025-02-15,http://youtube.com/watch?v=1305,Check out HKVitals Multivitamins! #ad,83658,2164,341
+1306,148,YouTube,2025-04-24,http://youtube.com/watch?v=1306,Check out HKVitals Probiotics! #ad,65727,2052,165
+1307,148,YouTube,2025-07-15,http://youtube.com/watch?v=1307,Check out HKVitals Omega 3! #ad,75712,2960,339
+1308,148,YouTube,2025-03-10,http://youtube.com/watch?v=1308,Check out Gritzo Oats! #ad,85557,2921,442
+1309,148,YouTube,2025-04-20,http://youtube.com/watch?v=1309,Check out MuscleBlaze Mass Gainer! #ad,77533,1662,326
+1310,149,Twitter,2025-05-29,http://twitter.com/status/1310,Check out HKVitals Multivitamins! #ad,14678,795,94
+1311,149,Twitter,2025-01-31,http://twitter.com/status/1311,Check out HKVitals Multivitamins! #ad,19472,1338,146
+1312,149,Twitter,2025-03-11,http://twitter.com/status/1312,Check out Gritzo Peanut Butter! #ad,17915,1017,89
+1313,149,Twitter,2025-02-17,http://twitter.com/status/1313,Check out Gritzo Oats! #ad,11644,774,93
+1314,149,Twitter,2025-04-08,http://twitter.com/status/1314,Check out Gritzo Chia Seeds! #ad,20387,1017,164
+1315,149,Twitter,2025-02-07,http://twitter.com/status/1315,Check out MuscleBlaze Mass Gainer! #ad,15967,623,122
+1316,149,Twitter,2025-06-08,http://twitter.com/status/1316,Check out HKVitals Multivitamins! #ad,20396,978,134
+1317,149,Twitter,2025-03-21,http://twitter.com/status/1317,Check out MuscleBlaze BCAA! #ad,15855,585,70
+1318,150,YouTube,2025-04-01,http://youtube.com/watch?v=1318,Check out Gritzo Chia Seeds! #ad,35722,1179,114
+1319,150,YouTube,2025-02-23,http://youtube.com/watch?v=1319,Check out HKVitals Omega 3! #ad,42754,2835,262
+1320,150,YouTube,2025-07-18,http://youtube.com/watch?v=1320,Check out HKVitals Probiotics! #ad,44580,2957,377
+1321,150,YouTube,2025-04-24,http://youtube.com/watch?v=1321,Check out MuscleBlaze Mass Gainer! #ad,42509,1894,364
+1322,150,YouTube,2025-05-17,http://youtube.com/watch?v=1322,Check out Gritzo Chia Seeds! #ad,43879,994,71
+1323,150,YouTube,2025-03-15,http://youtube.com/watch?v=1323,Check out MuscleBlaze Protein Powder! #ad,36555,1030,123
